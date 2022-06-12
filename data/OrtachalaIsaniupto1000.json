@@ -1,0 +1,3427 @@
+{
+ "name": "<1000$ Ортачала, Исани, Авлабари",
+ "type": "public_channel",
+ "id": 1712073720,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2021-10-15T12:32:39",
+   "actor": "<1000$ Ортачала, Исани, Авлабари",
+   "actor_id": "channel1712073720",
+   "action": "create_channel",
+   "title": "401-700 Ортачала и Исани",
+   "text": ""
+  },
+  {
+   "id": 2,
+   "type": "service",
+   "date": "2021-10-15T12:33:16",
+   "actor": "<1000$ Ортачала, Исани, Авлабари",
+   "actor_id": "channel1712073720",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2021-10-15T12:33:46",
+   "edited": "2021-10-18T16:51:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир 401-700$ в Ортачала и Исани (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/tbilisi250350",
+     "href": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/VeraVake401700",
+     "href": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/Saburtalo401700",
+     "href": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/OrtachalaIsani401700",
+     "href": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/solmtch401700",
+     "href": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://atflat.ge",
+     "href": "https://atflat.ge/"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 4,
+   "type": "service",
+   "date": "2021-10-15T12:33:49",
+   "actor": "<1000$ Ортачала, Исани, Авлабари",
+   "actor_id": "channel1712073720",
+   "action": "pin_message",
+   "message_id": 3,
+   "text": ""
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Исани \nУл.  Л. Кочинского 1  \n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/iSwTSeHhZxaFinRQ7"
+    },
+    "\n \nНовый дом\n82 кв\n3/12 этаж \n2 спальни\nБалкон \nДуховка \nЦена: 520$ даст за 500$"
+   ]
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 852,
+   "text": ""
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 599,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 599,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 599,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 835,
+   "text": ""
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 599,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2021-10-29T14:16:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 589,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 370,
+   "type": "message",
+   "date": "2021-11-16T17:11:04",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир 401-700$ в Ортачала и Исани (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/tbilisi250350",
+     "href": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/VeraVake401700",
+     "href": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/Saburtalo401700",
+     "href": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/OrtachalaIsani401700",
+     "href": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/solmtch401700",
+     "href": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://atflat.ge",
+     "href": "https://atflat.ge/"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 384,
+   "type": "message",
+   "date": "2021-11-17T17:16:53",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир 401-700$ в Ортачала и Исани (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/tbilisi250350",
+     "href": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/VeraVake401700",
+     "href": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/Saburtalo401700",
+     "href": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/OrtachalaIsani401700",
+     "href": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/solmtch401700",
+     "href": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://atflat.ge",
+     "href": "https://atflat.ge/"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 408,
+   "type": "message",
+   "date": "2021-12-01T16:59:50",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир 401-700$ в Ортачала и Исани (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/tbilisi250350",
+     "href": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/VeraVake401700",
+     "href": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/Saburtalo401700",
+     "href": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/OrtachalaIsani401700",
+     "href": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/solmtch401700",
+     "href": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://atflat.ge",
+     "href": "https://atflat.ge/"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 409,
+   "type": "message",
+   "date": "2021-12-08T12:55:59",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Крцаниси\nКрцаниси 14б\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/2CMj5n77yJNRxNwu6"
+    },
+    "\n\nНовый корпус \n57 кв\n1 спальня\n6/8 этаж \nБалкон \nДуховка \nЦена-500$"
+   ]
+  },
+  {
+   "id": 410,
+   "type": "message",
+   "date": "2021-12-08T12:55:59",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 854,
+   "text": ""
+  },
+  {
+   "id": 411,
+   "type": "message",
+   "date": "2021-12-08T12:55:59",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 854,
+   "text": ""
+  },
+  {
+   "id": 412,
+   "type": "message",
+   "date": "2021-12-08T12:55:59",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 854,
+   "text": ""
+  },
+  {
+   "id": 413,
+   "type": "message",
+   "date": "2021-12-08T12:55:59",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 854,
+   "text": ""
+  },
+  {
+   "id": 414,
+   "type": "message",
+   "date": "2021-12-08T12:55:59",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 444,
+   "type": "message",
+   "date": "2021-12-08T17:06:14",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир 401-700$ в Ортачала и Исани (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "link",
+     "text": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 445,
+   "type": "message",
+   "date": "2021-12-14T10:00:54",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Ортачала \nФирдоуси 5\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/FPanYNBhKJq8FFrq8"
+    },
+    "\n\nНовый корпус \n40 кв\n1 спальня\n2/5 этаж \nПаркинг во дворе \nНет балкона \nЦена-400$\nОсвобождается 2 января, до этого смотреть нельзя"
+   ]
+  },
+  {
+   "id": 446,
+   "type": "message",
+   "date": "2021-12-14T10:00:54",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 447,
+   "type": "message",
+   "date": "2021-12-14T10:00:54",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 630,
+   "text": ""
+  },
+  {
+   "id": 448,
+   "type": "message",
+   "date": "2021-12-14T10:00:54",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 959,
+   "text": ""
+  },
+  {
+   "id": 449,
+   "type": "message",
+   "date": "2021-12-14T10:00:54",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 450,
+   "type": "message",
+   "date": "2021-12-14T10:00:54",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 451,
+   "type": "message",
+   "date": "2021-12-14T10:00:54",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 452,
+   "type": "message",
+   "date": "2021-12-14T10:00:54",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 563,
+   "text": ""
+  },
+  {
+   "id": 453,
+   "type": "message",
+   "date": "2021-12-14T10:00:55",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 454,
+   "type": "message",
+   "date": "2021-12-14T10:00:55",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 1000,
+   "text": ""
+  },
+  {
+   "id": 455,
+   "type": "message",
+   "date": "2021-12-14T10:00:55",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 456,
+   "type": "message",
+   "date": "2021-12-14T10:00:55",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 457,
+   "type": "message",
+   "date": "2021-12-14T10:00:55",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 458,
+   "type": "message",
+   "date": "2021-12-14T10:00:55",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1208,
+   "height": 1000,
+   "text": ""
+  },
+  {
+   "id": 469,
+   "type": "message",
+   "date": "2021-12-15T17:05:45",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир 401-700$ в Ортачала и Исани (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "link",
+     "text": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 470,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Ортачала \nГоргасали 40\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/Fsgfo5jrfa5638qHA"
+    },
+    "\n\nНовый корпус \n55 кв\n1 спальня\n2/8 этаж \nНет балкона \nЦена-500$"
+   ]
+  },
+  {
+   "id": 471,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 472,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 473,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 474,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 475,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 476,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 477,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 478,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 479,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 480,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 481,
+   "type": "message",
+   "date": "2021-12-23T16:14:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 482,
+   "type": "message",
+   "date": "2021-12-23T17:08:39",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир 401-700$ в Ортачала и Исани (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "link",
+     "text": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 483,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Исани \nУл. Л. Качинский 1 \n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/2DyADaaTLV1GWesy6"
+    },
+    "\n\nНовый дом  \n110 кв\n3/12 этаж \n3 спальни\nБалкон \nВанна\nДуховка \nПосудомойка \nЦена 600$ \n(В цену входит обслуживание корпуса и охрана)"
+   ]
+  },
+  {
+   "id": 484,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 805,
+   "text": ""
+  },
+  {
+   "id": 485,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 486,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1202,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 487,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1202,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 488,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 489,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1202,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 490,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 814,
+   "text": ""
+  },
+  {
+   "id": 491,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 830,
+   "text": ""
+  },
+  {
+   "id": 492,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 837,
+   "text": ""
+  },
+  {
+   "id": 493,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 494,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 495,
+   "type": "message",
+   "date": "2021-12-24T09:15:26",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 496,
+   "type": "message",
+   "date": "2021-12-24T17:10:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир 401-700$ в Ортачала и Исани (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "link",
+     "text": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 497,
+   "type": "message",
+   "date": "2021-12-24T17:10:41",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": "Здравствуйте! Хотим сообщить, что наша команда уходит на новогодние каникулы с 27 декабря. Мы вернёмся к работе только 10 января. \nК сожалению, в этот период мы будем не на связи. К новым подборкам, показам вернёмся только 10 января. Благодарим за понимание и поздравляем с наступающими праздниками 🎅🎄 🤶 🎁"
+  },
+  {
+   "id": 586,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Крцаниси \nУл.  Чхеидзе 13\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/vTMDWN6361kVa7pZ9"
+    },
+    "\n\nНовый дом \n115 кв \n2/8 этаж\n2 спальни \nБалкон\nДуховка \nПаркинг\nЦена 550$"
+   ]
+  },
+  {
+   "id": 587,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 588,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 589,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 590,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 591,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 592,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 593,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 594,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 595,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 596,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Крцаниси \nУл.  Чхеидзе 13\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/vTMDWN6361kVa7pZ9"
+    },
+    "\n\nНовый дом \n130 кв \n4/8 этаж\n3 спальни \n2 сан узла \n2 балкона\nДуховка \nПаркинг\nЦена 650 $"
+   ]
+  },
+  {
+   "id": 597,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 598,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 599,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 600,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 601,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 602,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 603,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 604,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 605,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 606,
+   "type": "message",
+   "date": "2022-01-19T09:10:24",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 607,
+   "type": "message",
+   "date": "2022-01-19T09:10:25",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 718,
+   "type": "service",
+   "date": "2022-01-31T10:35:34",
+   "actor": "<1000$ Ортачала, Исани, Авлабари",
+   "actor_id": "channel1712073720",
+   "action": "edit_group_title",
+   "title": "401-700 Ортачала, Исани, Авлабари",
+   "text": ""
+  },
+  {
+   "id": 880,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "edited": "2022-03-04T16:23:05",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Ортачала \nНиколадзе 15\n\nგიორგი ნიკოლაძის ქუჩა\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/afw7DV1tjy8DAVJr8"
+    },
+    "\n\nНовый корпус, никто не жил\n65 кв\n2 спальни \n9/12 этаж \nБалкон \nПаркинг\nДуховка \nВанна \nМебель завезёт по желанию клиента \nЦена-500$\nБез паркинга-450$\nПротив русских И белорусов\nПротив животных"
+   ]
+  },
+  {
+   "id": 881,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 882,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 883,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 884,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 885,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 886,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 887,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 888,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 889,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 890,
+   "type": "message",
+   "date": "2022-03-02T13:07:01",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 891,
+   "type": "message",
+   "date": "2022-03-02T13:07:02",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 892,
+   "type": "message",
+   "date": "2022-03-02T13:07:02",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 894,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Исани     \nУл. Габриэль Салоси 43\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/Jm41Y2iQf3PdeGiw9"
+    },
+    "\n\nСтарый дом\n70 кв\n2 спальни\n6/9 этаж  \nНет балкона\nПосудомойка \nЦена: 500$\nПротив русских  \nпротив животных \nМинимум на год"
+   ]
+  },
+  {
+   "id": 895,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 896,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 897,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 898,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 899,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 416,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 900,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 901,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 902,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 903,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 904,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 905,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 906,
+   "type": "message",
+   "date": "2022-03-07T10:47:09",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 907,
+   "type": "message",
+   "date": "2022-03-07T18:23:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир 401-700$ в Ортачала и Исани (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "link",
+     "text": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 957,
+   "type": "message",
+   "date": "2022-03-20T15:00:49",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": "Приветствую, дорогой подписчик!\n\nПрошу учесть, что варианты сейчас сдаются за 1 день максимум, поэтому прошу смотреть варианты, которые выложены за последние 1-3 дня, если вообще опубликованы. \nХорошего дня всем 💫"
+  },
+  {
+   "id": 968,
+   "type": "message",
+   "date": "2022-04-14T11:42:22",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Ортачала \nУсахелоури 4\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/98eTHWWhRgRgnWb88"
+    },
+    "\n\nНовый корпус \n57 кв\n1 спальня\n9/12 этаж \nБалкон \nЦена-600$\nПротив животных \nОсвобождается 1 мая, смотреть нельзя"
+   ]
+  },
+  {
+   "id": 969,
+   "type": "message",
+   "date": "2022-04-14T11:42:22",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 970,
+   "type": "message",
+   "date": "2022-04-14T11:42:23",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 971,
+   "type": "message",
+   "date": "2022-04-14T11:42:23",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 972,
+   "type": "message",
+   "date": "2022-04-14T11:42:23",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 973,
+   "type": "message",
+   "date": "2022-04-14T11:42:23",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 974,
+   "type": "message",
+   "date": "2022-04-14T11:42:23",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 975,
+   "type": "message",
+   "date": "2022-04-14T11:42:23",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 976,
+   "type": "service",
+   "date": "2022-04-18T10:17:56",
+   "actor": "<1000$ Ортачала, Исани, Авлабари",
+   "actor_id": "channel1712073720",
+   "action": "edit_group_title",
+   "title": "<1000$ Ортачала, Исани, Авлабари",
+   "text": ""
+  },
+  {
+   "id": 978,
+   "type": "message",
+   "date": "2022-04-19T10:03:54",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1080,
+   "height": 1080,
+   "text": "Друзья, сообщаем, что в период 22-25 апреля включительно наша команда уходит в тотальный пасхальный отпуск. Мы много работали - нам нужно немного отдохнуть :) \nВ этот период мы не берём в работу новые заявки. Не ездим на показы. \nВы можете нам писать, мы ответим в ближайшее по возможности время. Всех с предстоящим светлым праздником! Отдыхайте, радуйтесь жизни!❤️"
+  },
+  {
+   "id": 979,
+   "type": "message",
+   "date": "2022-04-21T10:24:46",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Исани\nХолбрука 12\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/2Pubxdrt6dHwyLLP6"
+    },
+    "\n\nНовый корпус \n60 кв\n1 спальня\n12/14 этаж \nБалкон \nДуховка \nЦена-800$\nПротив животных"
+   ]
+  },
+  {
+   "id": 980,
+   "type": "message",
+   "date": "2022-04-21T10:24:46",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 981,
+   "type": "message",
+   "date": "2022-04-21T10:24:46",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 982,
+   "type": "message",
+   "date": "2022-04-21T10:24:46",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 983,
+   "type": "message",
+   "date": "2022-04-21T10:24:46",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 313,
+   "text": ""
+  },
+  {
+   "id": 984,
+   "type": "message",
+   "date": "2022-04-21T10:24:46",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 669,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 985,
+   "type": "message",
+   "date": "2022-04-21T10:24:46",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 986,
+   "type": "message",
+   "date": "2022-04-21T10:24:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 987,
+   "type": "message",
+   "date": "2022-04-21T10:24:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 988,
+   "type": "message",
+   "date": "2022-04-21T10:24:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 989,
+   "type": "message",
+   "date": "2022-04-21T10:24:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 669,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 990,
+   "type": "message",
+   "date": "2022-04-21T10:24:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1046,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Исани\nБочорма 50/18\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/cPoQVS8DCE38ktmo7"
+    },
+    "\n\nНовый корпус\n130 кв\n3 спальни\n8 этаж\nЛифт\nДуховка\nПосудомоечная машина\nЦена-800$\nМожно всем,но только семьям\nЖелательно без животных\nМебель есть везде\nСвободна с 1 мая,смотреть можно со 2го\nМинимум 6 месяцев"
+   ]
+  },
+  {
+   "id": 1047,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1048,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1049,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1050,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1051,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1052,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1053,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 1054,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1055,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1056,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1057,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1058,
+   "type": "message",
+   "date": "2022-04-27T11:27:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1059,
+   "type": "message",
+   "date": "2022-04-27T11:27:58",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1060,
+   "type": "message",
+   "date": "2022-04-27T11:27:58",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1061,
+   "type": "message",
+   "date": "2022-04-27T11:27:58",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 768,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 1073,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Ортачала\nГулиа 4\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/jJNvWNT3eFkwNnXc7"
+    },
+    "\n\nНовый корпус\n60 кв\n2 спальни\n2/9 этаж\nЛифт\nДуховка\nБалкон\nОкон нет в спальнях\nЦена-750$\nМожно всем\nМожно с животными,но с депозитом\nОсвобождается 1го мая,смотреть нельзя"
+   ]
+  },
+  {
+   "id": 1074,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1075,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1076,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1077,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1078,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1079,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1080,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1081,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1082,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1083,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1084,
+   "type": "message",
+   "date": "2022-04-28T17:01:52",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1085,
+   "type": "message",
+   "date": "2022-05-02T18:52:19",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир до 1000$ в Ортачала Исани Авлабари (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1086,
+   "type": "service",
+   "date": "2022-05-02T18:52:34",
+   "actor": "<1000$ Ортачала, Исани, Авлабари",
+   "actor_id": "channel1712073720",
+   "action": "pin_message",
+   "message_id": 1085,
+   "text": ""
+  },
+  {
+   "id": 1088,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": "Исани\n108кв\n3 спальни\n7/20 этаж\nБалкон\n1000$"
+  },
+  {
+   "id": 1089,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1090,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1091,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1092,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1093,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1094,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1095,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1096,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1097,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1098,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1099,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1100,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Авлабари \nК. Цамебули 84/86\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/kB7RGjvavuyYsbyf8"
+    },
+    " \n4/4 этаж\n110кв\n3 спальни\nБалкон \nВанна\n900$\nСдается на пол года"
+   ]
+  },
+  {
+   "id": 1101,
+   "type": "message",
+   "date": "2022-05-05T15:36:07",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 1102,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 791,
+   "text": ""
+  },
+  {
+   "id": 1103,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 788,
+   "text": ""
+  },
+  {
+   "id": 1104,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 789,
+   "text": ""
+  },
+  {
+   "id": 1105,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 791,
+   "text": ""
+  },
+  {
+   "id": 1106,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 774,
+   "text": ""
+  },
+  {
+   "id": 1107,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 793,
+   "text": ""
+  },
+  {
+   "id": 1108,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 1109,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 1110,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 798,
+   "text": ""
+  },
+  {
+   "id": 1111,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 782,
+   "text": ""
+  },
+  {
+   "id": 1112,
+   "type": "message",
+   "date": "2022-05-05T15:36:08",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 775,
+   "text": ""
+  },
+  {
+   "id": 1124,
+   "type": "message",
+   "date": "2022-05-06T11:16:15",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Исани\nУл. Навтлуга\n\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/CmbtPGXfyfFvWoBT6"
+    },
+    "\n\n88кв\n2 спальни\n3/22 этаж \nВанна\nБалкон \n1000$\nно просят за 6 месяц заранее"
+   ]
+  },
+  {
+   "id": 1125,
+   "type": "message",
+   "date": "2022-05-06T11:16:15",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1126,
+   "type": "message",
+   "date": "2022-05-06T11:16:15",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1127,
+   "type": "message",
+   "date": "2022-05-06T11:16:15",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1128,
+   "type": "message",
+   "date": "2022-05-06T11:16:16",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1129,
+   "type": "message",
+   "date": "2022-05-06T11:16:16",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1130,
+   "type": "message",
+   "date": "2022-05-06T11:16:16",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1131,
+   "type": "message",
+   "date": "2022-05-06T11:16:16",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1132,
+   "type": "message",
+   "date": "2022-05-06T11:16:16",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1154,
+   "type": "message",
+   "date": "2022-05-09T19:57:45",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир до 1000$ в Ортачала Исани Авлабари (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1179,
+   "type": "message",
+   "date": "2022-05-17T10:37:46",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Старый город \nМирза Ф. Азундов 11\n\nMirza F. Akhundov museum of Azerbaijani culture of Tbilisi\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/ZtUBMDWFerSH3MQg7"
+    },
+    "\n\nСтарый дом\n75кв\n1 спальня\n2/2 этаж \nБалкон \n1000$\nС маленькими животными можно"
+   ]
+  },
+  {
+   "id": 1180,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1181,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1182,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1183,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1184,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1185,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1186,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1187,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1188,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1189,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1190,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1191,
+   "type": "message",
+   "date": "2022-05-17T10:37:47",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1192,
+   "type": "message",
+   "date": "2022-05-18T16:05:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Авлабар\nК. Цамебули 41 (напротив Шератон Метехи)\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/9qrvBvnUuCZT22BP9"
+    },
+    "\n\nНовостройка\n100кв\n2спальни\nЭтаж 2/6 (лифт со 2-ого этажа)\nБалкон\nДуховка\nПосудомойка\nЦена 1000$\n\nнет животным \nхозяин живет освободит квартиру за 2 дня"
+   ]
+  },
+  {
+   "id": 1193,
+   "type": "message",
+   "date": "2022-05-18T16:05:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1194,
+   "type": "message",
+   "date": "2022-05-18T16:05:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1195,
+   "type": "message",
+   "date": "2022-05-18T16:05:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1196,
+   "type": "message",
+   "date": "2022-05-18T16:05:57",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1197,
+   "type": "message",
+   "date": "2022-05-18T16:05:58",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1198,
+   "type": "message",
+   "date": "2022-05-18T16:05:58",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1199,
+   "type": "message",
+   "date": "2022-05-18T16:05:58",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1200,
+   "type": "message",
+   "date": "2022-05-18T16:05:58",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1201,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Авлабари \nKetevan Tsamebuli Ave\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/j4xdnsjnFZrMN4pe6"
+    },
+    "\n100кв \n10/10\n2 спальни \n2 санузла \n800$\nМожно всем"
+   ]
+  },
+  {
+   "id": 1202,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1042,
+   "text": ""
+  },
+  {
+   "id": 1203,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1043,
+   "text": ""
+  },
+  {
+   "id": 1204,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1080,
+   "text": ""
+  },
+  {
+   "id": 1205,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1104,
+   "text": ""
+  },
+  {
+   "id": 1206,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1056,
+   "text": ""
+  },
+  {
+   "id": 1207,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1098,
+   "text": ""
+  },
+  {
+   "id": 1208,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1087,
+   "text": ""
+  },
+  {
+   "id": 1209,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1091,
+   "text": ""
+  },
+  {
+   "id": 1210,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1077,
+   "text": ""
+  },
+  {
+   "id": 1211,
+   "type": "message",
+   "date": "2022-05-27T17:23:48",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 1098,
+   "text": ""
+  },
+  {
+   "id": 1212,
+   "type": "message",
+   "date": "2022-05-27T17:24:03",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Подборка квартир до 1000$ в Ортачала Исани Авлабари (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1213,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Ортачала \nОрпири 2\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/mc3rrUajjuuShj3v5"
+    },
+    "\n\nНовый дом\n63 кв\n1 спальня \n2/4 этаж , без лифта \nБалкон \nПаркинг \nЦена-900$\nМожно всем\nБез животных"
+   ]
+  },
+  {
+   "id": 1214,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1215,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1216,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1217,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1218,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1219,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1220,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1221,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1222,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1223,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1224,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 450,
+   "height": 300,
+   "text": ""
+  },
+  {
+   "id": 1225,
+   "type": "message",
+   "date": "2022-05-30T11:31:36",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 527,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1226,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "text": [
+    "Авлабари\nИвериели 32\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/KFvZhqGaqcUHTpjG6"
+    },
+    "\n61кв \n1 спальня\n7/9 этаж \nБалкон \nПаркинг \n700$\nМожно всем\nМожно с животными \nОсвобождается 5 июня смотреть можно"
+   ]
+  },
+  {
+   "id": 1227,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1228,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 888,
+   "text": ""
+  },
+  {
+   "id": 1229,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 772,
+   "text": ""
+  },
+  {
+   "id": 1230,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1231,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1232,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1233,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1234,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1235,
+   "type": "message",
+   "date": "2022-05-31T12:08:29",
+   "from": "<1000$ Ортачала, Исани, Авлабари",
+   "from_id": "channel1712073720",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  }
+ ]
+}

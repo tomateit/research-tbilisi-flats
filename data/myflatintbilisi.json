@@ -1,0 +1,6641 @@
+{
+ "name": "Аренда недвижимости Тбилиси (MyFlat)",
+ "type": "public_channel",
+ "id": 1794574917,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2022-03-27T00:07:09",
+   "actor": "Аренда недвижимости Тбилиси (MyFlat)",
+   "actor_id": "channel1794574917",
+   "action": "create_channel",
+   "title": "Аренда недвижимости Тбилиси (MyFlat)",
+   "text": ""
+  },
+  {
+   "id": 2,
+   "type": "service",
+   "date": "2022-03-27T00:07:10",
+   "actor": "Аренда недвижимости Тбилиси (MyFlat)",
+   "actor_id": "channel1794574917",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": 432,
+   "type": "service",
+   "date": "2022-04-19T16:55:33",
+   "actor": "Аренда недвижимости Тбилиси (MyFlat)",
+   "actor_id": "channel1794574917",
+   "action": "pin_message",
+   "message_id": 428,
+   "text": ""
+  },
+  {
+   "id": 433,
+   "type": "service",
+   "date": "2022-04-19T16:56:00",
+   "actor": "Аренда недвижимости Тбилиси (MyFlat)",
+   "actor_id": "channel1794574917",
+   "action": "pin_message",
+   "message_id": 427,
+   "text": ""
+  },
+  {
+   "id": 915,
+   "type": "message",
+   "date": "2022-05-14T13:38:43",
+   "edited": "2022-05-14T13:41:01",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдается частный дом в Табахмела. 4 спальни, 3 санузла, большой двор. есть как и стиральные, так и посудомоечные машины, интернет, камин, тренажеры. 3000$ ",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 916,
+   "type": "message",
+   "date": "2022-05-14T13:38:43",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 917,
+   "type": "message",
+   "date": "2022-05-14T13:38:43",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 918,
+   "type": "message",
+   "date": "2022-05-14T13:38:43",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 919,
+   "type": "message",
+   "date": "2022-05-14T13:38:43",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 920,
+   "type": "message",
+   "date": "2022-05-14T13:38:43",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 921,
+   "type": "message",
+   "date": "2022-05-14T13:38:43",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 922,
+   "type": "message",
+   "date": "2022-05-14T13:38:43",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 923,
+   "type": "message",
+   "date": "2022-05-14T13:38:43",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 924,
+   "type": "message",
+   "date": "2022-05-14T13:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 992,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "edited": "2022-05-14T14:29:17",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": [
+    "Сдается частный дом в районе Исани, 600кв.м, 4 этажа, 8 комнат, 4 спальни, 4 санузла. центральное отопление, интернет, двор есть. 2700$ ",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 993,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 994,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 995,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 996,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 997,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 998,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 999,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1000,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1001,
+   "type": "message",
+   "date": "2022-05-14T14:29:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 1045,
+   "type": "service",
+   "date": "2022-05-16T11:38:44",
+   "actor": "Аренда недвижимости Тбилиси (MyFlat)",
+   "actor_id": "channel1794574917",
+   "action": "pin_message",
+   "message_id": 638,
+   "text": ""
+  },
+  {
+   "id": 1092,
+   "type": "message",
+   "date": "2022-05-16T21:22:53",
+   "edited": "2022-05-16T21:22:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 720,
+   "text": [
+    "Сдаётся частный дом в Тбилиси, район Ваке, Цхнети.\n7 комнат, 4 спальни, 4 санузла, 2 кухни. \nЕсть центральное отопление, интернет. \n2000$\n",
+    {
+     "type": "mention",
+     "text": "@meri0816"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1093,
+   "type": "message",
+   "date": "2022-05-16T21:22:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1094,
+   "type": "message",
+   "date": "2022-05-16T21:22:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1095,
+   "type": "message",
+   "date": "2022-05-16T21:22:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1096,
+   "type": "message",
+   "date": "2022-05-16T21:22:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 1097,
+   "type": "message",
+   "date": "2022-05-16T21:22:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1098,
+   "type": "message",
+   "date": "2022-05-16T21:22:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1099,
+   "type": "message",
+   "date": "2022-05-16T21:22:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 1100,
+   "type": "message",
+   "date": "2022-05-16T21:28:53",
+   "edited": "2022-05-16T21:29:00",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": [
+    "Сдаётся частный дом в районе Дигоми. \n2 этажа, 8 комнат, 4 спальни, 4 санузла. \nЕсть все удобства, так же большой двор. \n2500$\n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1101,
+   "type": "message",
+   "date": "2022-05-16T21:28:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 1102,
+   "type": "message",
+   "date": "2022-05-16T21:28:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 1103,
+   "type": "message",
+   "date": "2022-05-16T21:28:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1104,
+   "type": "message",
+   "date": "2022-05-16T21:28:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1105,
+   "type": "message",
+   "date": "2022-05-16T21:28:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1106,
+   "type": "message",
+   "date": "2022-05-16T21:28:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 1107,
+   "type": "message",
+   "date": "2022-05-16T21:28:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 1108,
+   "type": "message",
+   "date": "2022-05-16T21:30:21",
+   "edited": "2022-05-16T21:30:33",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": [
+    "Сдаётся частный дом в районе Дигоми 7.\n3 спальни\n1000$\n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1109,
+   "type": "message",
+   "date": "2022-05-16T21:30:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1110,
+   "type": "message",
+   "date": "2022-05-16T21:30:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1111,
+   "type": "message",
+   "date": "2022-05-16T21:30:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1112,
+   "type": "message",
+   "date": "2022-05-16T21:30:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1113,
+   "type": "message",
+   "date": "2022-05-16T21:30:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1114,
+   "type": "message",
+   "date": "2022-05-16T21:40:51",
+   "edited": "2022-05-16T21:41:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся частный дом в Тбилиси, район Ваке, Цхнети.\n3 этажа, 10 комнат, 6 спален, 4 санузла\n2000$\n",
+    {
+     "type": "mention",
+     "text": "@meri0816"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1115,
+   "type": "message",
+   "date": "2022-05-16T21:40:51",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1116,
+   "type": "message",
+   "date": "2022-05-16T21:40:51",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1117,
+   "type": "message",
+   "date": "2022-05-16T21:40:51",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1118,
+   "type": "message",
+   "date": "2022-05-16T21:40:51",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1119,
+   "type": "message",
+   "date": "2022-05-16T21:40:51",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 657,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1120,
+   "type": "message",
+   "date": "2022-05-16T21:40:51",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1121,
+   "type": "message",
+   "date": "2022-05-16T21:40:51",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1122,
+   "type": "message",
+   "date": "2022-05-16T21:40:51",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1123,
+   "type": "message",
+   "date": "2022-05-16T21:43:58",
+   "edited": "2022-05-16T21:44:10",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся частный дом в Тбилиси, район Ваке, Цхнети.\n3 спальни, 1 санузел. \n1000$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1124,
+   "type": "message",
+   "date": "2022-05-16T21:43:58",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1125,
+   "type": "message",
+   "date": "2022-05-16T21:43:58",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1126,
+   "type": "message",
+   "date": "2022-05-16T21:43:58",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1127,
+   "type": "message",
+   "date": "2022-05-16T21:43:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1128,
+   "type": "message",
+   "date": "2022-05-16T21:43:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1129,
+   "type": "message",
+   "date": "2022-05-16T21:43:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1130,
+   "type": "message",
+   "date": "2022-05-16T21:43:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1131,
+   "type": "message",
+   "date": "2022-05-16T21:43:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1132,
+   "type": "message",
+   "date": "2022-05-16T21:46:52",
+   "edited": "2022-05-16T21:47:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся частный дом в Шиндиси (20 минут от площади свободы)\n4 спальни, 2 санузла\n1000 кв.м двор\n2200$\n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1133,
+   "type": "message",
+   "date": "2022-05-16T21:46:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1134,
+   "type": "message",
+   "date": "2022-05-16T21:46:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1135,
+   "type": "message",
+   "date": "2022-05-16T21:46:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1136,
+   "type": "message",
+   "date": "2022-05-16T21:46:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1137,
+   "type": "message",
+   "date": "2022-05-16T21:46:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1138,
+   "type": "message",
+   "date": "2022-05-16T21:57:37",
+   "edited": "2022-05-16T21:57:39",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": [
+    "Сдаётся частный дом в районе Сабуртало\n3 этажа, 9 комнат, 7 спален, 5+ санузлов \n500 кв.м дом и 100 кв.м двор. \n2500$\n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1139,
+   "type": "message",
+   "date": "2022-05-16T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1140,
+   "type": "message",
+   "date": "2022-05-16T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1141,
+   "type": "message",
+   "date": "2022-05-16T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1142,
+   "type": "message",
+   "date": "2022-05-16T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1143,
+   "type": "message",
+   "date": "2022-05-16T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1144,
+   "type": "message",
+   "date": "2022-05-16T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1145,
+   "type": "message",
+   "date": "2022-05-16T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 1146,
+   "type": "message",
+   "date": "2022-05-16T21:57:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2133,
+   "type": "message",
+   "date": "2022-06-01T13:58:23",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 422,
+   "text": "Сдаётся квартира рядом с метро Варкетили с 2 спальнями 500$"
+  },
+  {
+   "id": 2134,
+   "type": "message",
+   "date": "2022-06-01T13:58:24",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 422,
+   "text": ""
+  },
+  {
+   "id": 2135,
+   "type": "message",
+   "date": "2022-06-01T13:58:24",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 576,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 2136,
+   "type": "message",
+   "date": "2022-06-01T13:58:24",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 422,
+   "text": ""
+  },
+  {
+   "id": 2137,
+   "type": "message",
+   "date": "2022-06-01T13:58:24",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 422,
+   "text": ""
+  },
+  {
+   "id": 2138,
+   "type": "message",
+   "date": "2022-06-01T13:58:24",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 576,
+   "height": 1024,
+   "text": ""
+  },
+  {
+   "id": 2289,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 788,
+   "text": [
+    "Сдаётся квартира в Диди Дигоми\n2 комнаты\n1 спальня \nВозле Гудвила \nНовостройка\nНовый ремонт\nЦена 450$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi12"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2290,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 777,
+   "text": ""
+  },
+  {
+   "id": 2291,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 670,
+   "height": 780,
+   "text": ""
+  },
+  {
+   "id": 2292,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 776,
+   "text": ""
+  },
+  {
+   "id": 2293,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2294,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 784,
+   "text": ""
+  },
+  {
+   "id": 2295,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2296,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2297,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 670,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2298,
+   "type": "message",
+   "date": "2022-06-03T22:33:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 666,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2299,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "edited": "2022-06-04T21:56:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 561,
+   "text": [
+    "Сдаётся квартира в Сабуртало на Улице Цагарели \n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nЦена 800$\n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2300,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 763,
+   "text": ""
+  },
+  {
+   "id": 2301,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2302,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 776,
+   "text": ""
+  },
+  {
+   "id": 2303,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 787,
+   "text": ""
+  },
+  {
+   "id": 2304,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 763,
+   "text": ""
+  },
+  {
+   "id": 2305,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 755,
+   "text": ""
+  },
+  {
+   "id": 2306,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 779,
+   "text": ""
+  },
+  {
+   "id": 2307,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 781,
+   "text": ""
+  },
+  {
+   "id": 2308,
+   "type": "message",
+   "date": "2022-06-03T22:39:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 495,
+   "height": 789,
+   "text": ""
+  },
+  {
+   "id": 2319,
+   "type": "message",
+   "date": "2022-06-04T21:38:26",
+   "edited": "2022-06-05T07:48:45",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Сабуртало \nУлица Политковской \n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nРазрешено с животными \nЦена 600$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi12"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2320,
+   "type": "message",
+   "date": "2022-06-04T21:38:26",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2321,
+   "type": "message",
+   "date": "2022-06-04T21:38:26",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2322,
+   "type": "message",
+   "date": "2022-06-04T21:38:26",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2323,
+   "type": "message",
+   "date": "2022-06-04T21:38:26",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2324,
+   "type": "message",
+   "date": "2022-06-04T21:38:26",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2325,
+   "type": "message",
+   "date": "2022-06-04T21:38:26",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2326,
+   "type": "message",
+   "date": "2022-06-04T21:38:26",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2327,
+   "type": "message",
+   "date": "2022-06-04T21:40:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в районе Багеби \n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nЦена 750$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2328,
+   "type": "message",
+   "date": "2022-06-04T21:40:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2329,
+   "type": "message",
+   "date": "2022-06-04T21:40:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2330,
+   "type": "message",
+   "date": "2022-06-04T21:40:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 712,
+   "text": ""
+  },
+  {
+   "id": 2331,
+   "type": "message",
+   "date": "2022-06-04T21:40:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 712,
+   "text": ""
+  },
+  {
+   "id": 2332,
+   "type": "message",
+   "date": "2022-06-04T21:40:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 794,
+   "text": ""
+  },
+  {
+   "id": 2333,
+   "type": "message",
+   "date": "2022-06-04T21:40:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 672,
+   "height": 787,
+   "text": ""
+  },
+  {
+   "id": 2334,
+   "type": "message",
+   "date": "2022-06-04T21:40:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 670,
+   "height": 799,
+   "text": ""
+  },
+  {
+   "id": 2335,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Сабуртало \nУлица Костава\n5 комнат\n4 спальни \nЦена 900$\nРазрешено с животными \n",
+    {
+     "type": "mention",
+     "text": "@sarajishvili72"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2336,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2337,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2338,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2339,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2340,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2341,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2342,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2343,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2344,
+   "type": "message",
+   "date": "2022-06-04T21:44:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2345,
+   "type": "message",
+   "date": "2022-06-04T21:47:34",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Сабуртало рядом с метро Делиси\n2 комнаты \n1 спальня\nНовостройка \nНовый ремонт \nЦена 650$ \n",
+    {
+     "type": "mention",
+     "text": "@ksenya1275"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2346,
+   "type": "message",
+   "date": "2022-06-04T21:47:34",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 672,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2347,
+   "type": "message",
+   "date": "2022-06-04T21:47:34",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 674,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2348,
+   "type": "message",
+   "date": "2022-06-04T21:47:34",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2349,
+   "type": "message",
+   "date": "2022-06-04T21:51:34",
+   "edited": "2022-06-04T21:52:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 771,
+   "text": [
+    "Сдаётся квартира в районе Сабуртало \nУлица Цинцадзе\n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nЦена 700$ \n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2350,
+   "type": "message",
+   "date": "2022-06-04T21:51:34",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 756,
+   "height": 788,
+   "text": ""
+  },
+  {
+   "id": 2351,
+   "type": "message",
+   "date": "2022-06-04T21:51:34",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 762,
+   "height": 787,
+   "text": ""
+  },
+  {
+   "id": 2352,
+   "type": "message",
+   "date": "2022-06-04T21:51:34",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2353,
+   "type": "message",
+   "date": "2022-06-04T21:51:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 757,
+   "height": 781,
+   "text": ""
+  },
+  {
+   "id": 2354,
+   "type": "message",
+   "date": "2022-06-04T21:51:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 773,
+   "text": ""
+  },
+  {
+   "id": 2355,
+   "type": "message",
+   "date": "2022-06-04T21:51:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 773,
+   "text": ""
+  },
+  {
+   "id": 2356,
+   "type": "message",
+   "date": "2022-06-04T21:51:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 779,
+   "text": ""
+  },
+  {
+   "id": 2357,
+   "type": "message",
+   "date": "2022-06-04T21:51:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 779,
+   "text": ""
+  },
+  {
+   "id": 2358,
+   "type": "message",
+   "date": "2022-06-04T21:51:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 764,
+   "text": ""
+  },
+  {
+   "id": 2359,
+   "type": "service",
+   "date": "2022-06-04T21:51:41",
+   "actor": "Аренда недвижимости Тбилиси (MyFlat)",
+   "actor_id": "channel1794574917",
+   "action": "pin_message",
+   "message_id": 2349,
+   "text": ""
+  },
+  {
+   "id": 2360,
+   "type": "service",
+   "date": "2022-06-04T21:51:46",
+   "actor": "Аренда недвижимости Тбилиси (MyFlat)",
+   "actor_id": "channel1794574917",
+   "action": "pin_message",
+   "message_id": 2349,
+   "text": ""
+  },
+  {
+   "id": 2361,
+   "type": "message",
+   "date": "2022-06-04T21:54:34",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 800,
+   "text": [
+    "Сдаётся квартира в районе Диди Дигоми \n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nЦена 500$\n",
+    {
+     "type": "mention",
+     "text": "@ladika1999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2362,
+   "type": "message",
+   "date": "2022-06-04T21:54:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2363,
+   "type": "message",
+   "date": "2022-06-04T21:54:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 800,
+   "text": ""
+  },
+  {
+   "id": 2364,
+   "type": "message",
+   "date": "2022-06-04T21:54:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 560,
+   "height": 750,
+   "text": ""
+  },
+  {
+   "id": 2365,
+   "type": "message",
+   "date": "2022-06-04T21:54:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2366,
+   "type": "message",
+   "date": "2022-06-04T21:54:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 747,
+   "height": 892,
+   "text": ""
+  },
+  {
+   "id": 2367,
+   "type": "message",
+   "date": "2022-06-04T21:54:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 674,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2368,
+   "type": "message",
+   "date": "2022-06-04T21:54:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2369,
+   "type": "message",
+   "date": "2022-06-04T21:54:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2370,
+   "type": "message",
+   "date": "2022-06-04T21:54:35",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2371,
+   "type": "service",
+   "date": "2022-06-05T11:06:05",
+   "actor": "Аренда недвижимости Тбилиси (MyFlat)",
+   "actor_id": "channel1794574917",
+   "action": "pin_message",
+   "message_id": 2266,
+   "text": ""
+  },
+  {
+   "id": 2372,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": [
+    "Сдаётся квартира в Диди Дигоми\nУлица Тавдадебули\n2 комнаты \n1 спальня\nЦена 400$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2373,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2374,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2375,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2376,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 2377,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 2378,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 2379,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 2380,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 2381,
+   "type": "message",
+   "date": "2022-06-05T11:25:32",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 2382,
+   "type": "message",
+   "date": "2022-06-05T11:40:24",
+   "edited": "2022-06-10T21:35:58",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 502,
+   "text": [
+    "Сдаётся квартира в Сабуртало за 550$\n",
+    {
+     "type": "mention",
+     "text": "@ksenya1275"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2383,
+   "type": "message",
+   "date": "2022-06-05T11:40:24",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 506,
+   "text": ""
+  },
+  {
+   "id": 2384,
+   "type": "message",
+   "date": "2022-06-05T11:40:24",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 439,
+   "text": ""
+  },
+  {
+   "id": 2385,
+   "type": "message",
+   "date": "2022-06-05T11:40:25",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 500,
+   "text": ""
+  },
+  {
+   "id": 2386,
+   "type": "message",
+   "date": "2022-06-05T11:40:25",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 509,
+   "text": ""
+  },
+  {
+   "id": 2387,
+   "type": "message",
+   "date": "2022-06-05T15:35:49",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": [
+    {
+     "type": "hashtag",
+     "text": "#сдается"
+    },
+    " квартира в районе дигомский массив \n2 комнаты \n1 спальня\n550$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi12"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2388,
+   "type": "message",
+   "date": "2022-06-05T15:35:49",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2389,
+   "type": "message",
+   "date": "2022-06-05T15:35:49",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2390,
+   "type": "message",
+   "date": "2022-06-05T15:35:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2391,
+   "type": "message",
+   "date": "2022-06-05T15:35:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2398,
+   "type": "message",
+   "date": "2022-06-05T17:59:33",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Диди Дигоми\n3 комнаты \n2 спальни\nНовостройка \nНовый ремонт\nЦена 550$ \n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2399,
+   "type": "message",
+   "date": "2022-06-05T17:59:33",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2400,
+   "type": "message",
+   "date": "2022-06-05T17:59:33",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2401,
+   "type": "message",
+   "date": "2022-06-05T17:59:33",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2402,
+   "type": "message",
+   "date": "2022-06-05T17:59:33",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2403,
+   "type": "message",
+   "date": "2022-06-05T17:59:33",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2404,
+   "type": "message",
+   "date": "2022-06-05T18:02:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Диди Дигоми \n2 комнаты\n1 спальни \nНовостройка \nНовый ремонт \nЦена 450$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2405,
+   "type": "message",
+   "date": "2022-06-05T18:02:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2406,
+   "type": "message",
+   "date": "2022-06-05T18:02:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2407,
+   "type": "message",
+   "date": "2022-06-05T18:02:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2408,
+   "type": "message",
+   "date": "2022-06-05T18:02:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2409,
+   "type": "message",
+   "date": "2022-06-05T18:02:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2410,
+   "type": "message",
+   "date": "2022-06-05T18:02:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2411,
+   "type": "message",
+   "date": "2022-06-05T18:02:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2412,
+   "type": "message",
+   "date": "2022-06-05T18:02:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2432,
+   "type": "message",
+   "date": "2022-06-05T18:11:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 674,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Диди Дигоми \n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nЦена 500$\n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2433,
+   "type": "message",
+   "date": "2022-06-05T18:11:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2434,
+   "type": "message",
+   "date": "2022-06-05T18:11:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2435,
+   "type": "message",
+   "date": "2022-06-05T18:11:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2436,
+   "type": "message",
+   "date": "2022-06-05T18:11:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2437,
+   "type": "message",
+   "date": "2022-06-05T18:11:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2438,
+   "type": "message",
+   "date": "2022-06-05T18:11:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2439,
+   "type": "message",
+   "date": "2022-06-05T18:11:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2440,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Гладни \n15 минут от метро\n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nЦена 400$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2441,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2442,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2443,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2444,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2445,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2446,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2447,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2448,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2449,
+   "type": "message",
+   "date": "2022-06-05T18:12:46",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2450,
+   "type": "message",
+   "date": "2022-06-05T18:14:15",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Варкетили \n3 комнаты\n2 спальни \nОколо метро\nЦена 600$\nНовостройка \nНовый ремонт \nРазрешено с животными \n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2451,
+   "type": "message",
+   "date": "2022-06-05T18:14:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2452,
+   "type": "message",
+   "date": "2022-06-05T18:14:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2453,
+   "type": "message",
+   "date": "2022-06-05T18:14:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2454,
+   "type": "message",
+   "date": "2022-06-05T18:14:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2455,
+   "type": "message",
+   "date": "2022-06-05T18:14:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2456,
+   "type": "message",
+   "date": "2022-06-05T18:14:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2457,
+   "type": "message",
+   "date": "2022-06-05T18:14:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2458,
+   "type": "message",
+   "date": "2022-06-05T18:14:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2459,
+   "type": "message",
+   "date": "2022-06-05T18:14:16",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2460,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 800,
+   "text": [
+    "Сдаётся квартира в районе Авлабари \n4 комнаты \n2 спальни\nНовостройка \nНовый ремонт \nЦена 1100$ \n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2461,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2462,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 836,
+   "text": ""
+  },
+  {
+   "id": 2463,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2464,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 800,
+   "text": ""
+  },
+  {
+   "id": 2465,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 600,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2466,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 800,
+   "text": ""
+  },
+  {
+   "id": 2467,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 2468,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 502,
+   "height": 899,
+   "text": ""
+  },
+  {
+   "id": 2469,
+   "type": "message",
+   "date": "2022-06-05T19:25:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 2470,
+   "type": "message",
+   "date": "2022-06-06T12:05:38",
+   "edited": "2022-06-06T18:12:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1188,
+   "height": 749,
+   "text": [
+    "Сдаётся квартира в Сабуртало на улице Миндели 600$\n",
+    {
+     "type": "mention",
+     "text": "@oksana0975"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2471,
+   "type": "message",
+   "date": "2022-06-06T12:05:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 809,
+   "text": ""
+  },
+  {
+   "id": 2472,
+   "type": "message",
+   "date": "2022-06-06T12:05:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 664,
+   "height": 807,
+   "text": ""
+  },
+  {
+   "id": 2473,
+   "type": "message",
+   "date": "2022-06-06T12:05:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 799,
+   "text": ""
+  },
+  {
+   "id": 2474,
+   "type": "message",
+   "date": "2022-06-06T12:05:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1196,
+   "height": 798,
+   "text": ""
+  },
+  {
+   "id": 2475,
+   "type": "message",
+   "date": "2022-06-06T12:05:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 769,
+   "text": ""
+  },
+  {
+   "id": 2476,
+   "type": "message",
+   "date": "2022-06-06T12:05:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2477,
+   "type": "message",
+   "date": "2022-06-06T12:05:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1191,
+   "height": 789,
+   "text": ""
+  },
+  {
+   "id": 2480,
+   "type": "message",
+   "date": "2022-06-06T18:06:52",
+   "edited": "2022-06-06T18:12:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира на Надзаладеви с 2 спальнями рядом с парком Киквидзе 500$\n",
+    {
+     "type": "mention",
+     "text": "@oksana0975"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2481,
+   "type": "message",
+   "date": "2022-06-06T18:06:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2482,
+   "type": "message",
+   "date": "2022-06-06T18:06:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2483,
+   "type": "message",
+   "date": "2022-06-06T18:06:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 1200,
+   "text": ""
+  },
+  {
+   "id": 2484,
+   "type": "message",
+   "date": "2022-06-06T18:06:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 1200,
+   "text": ""
+  },
+  {
+   "id": 2485,
+   "type": "message",
+   "date": "2022-06-06T18:06:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 1200,
+   "text": ""
+  },
+  {
+   "id": 2486,
+   "type": "message",
+   "date": "2022-06-06T18:06:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 2487,
+   "type": "message",
+   "date": "2022-06-06T18:06:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2488,
+   "type": "message",
+   "date": "2022-06-06T18:06:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 2489,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Ваке 2 комнаты 1 спальня возле парка Мзиури.\nЦена 1000$\nНовостройка \nНовый ремонт \n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2490,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2491,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2492,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2493,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2494,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2495,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2496,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2497,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2498,
+   "type": "message",
+   "date": "2022-06-07T11:07:02",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2499,
+   "type": "message",
+   "date": "2022-06-07T12:45:04",
+   "edited": "2022-06-08T00:39:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 786,
+   "text": [
+    "Сдаётся квартира в районе Варкетили \nОколо метро \n3 комнаты \n1 спальня \nЦена 400$\nНовостройка \nНовый ремонт\nРазрешено с животными \n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2500,
+   "type": "message",
+   "date": "2022-06-07T12:45:04",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 781,
+   "text": ""
+  },
+  {
+   "id": 2501,
+   "type": "message",
+   "date": "2022-06-07T12:45:04",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 781,
+   "text": ""
+  },
+  {
+   "id": 2502,
+   "type": "message",
+   "date": "2022-06-07T12:45:04",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2503,
+   "type": "message",
+   "date": "2022-06-07T12:45:04",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 781,
+   "text": ""
+  },
+  {
+   "id": 2504,
+   "type": "message",
+   "date": "2022-06-07T12:45:04",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 771,
+   "text": ""
+  },
+  {
+   "id": 2505,
+   "type": "message",
+   "date": "2022-06-07T12:45:04",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 652,
+   "height": 779,
+   "text": ""
+  },
+  {
+   "id": 2506,
+   "type": "message",
+   "date": "2022-06-07T12:45:04",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 781,
+   "text": ""
+  },
+  {
+   "id": 2507,
+   "type": "message",
+   "date": "2022-06-07T16:29:28",
+   "edited": "2022-06-07T17:25:33",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 320,
+   "height": 238,
+   "text": [
+    "Сдаётся квартира в районе Важа Пшавела 3 комнаты 1 спальня \n500$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi12"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2508,
+   "type": "message",
+   "date": "2022-06-07T16:29:28",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 320,
+   "height": 238,
+   "text": ""
+  },
+  {
+   "id": 2509,
+   "type": "message",
+   "date": "2022-06-07T16:29:28",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 320,
+   "height": 238,
+   "text": ""
+  },
+  {
+   "id": 2510,
+   "type": "message",
+   "date": "2022-06-07T16:29:28",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 320,
+   "height": 238,
+   "text": ""
+  },
+  {
+   "id": 2511,
+   "type": "message",
+   "date": "2022-06-07T16:29:28",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 320,
+   "height": 238,
+   "text": ""
+  },
+  {
+   "id": 2512,
+   "type": "message",
+   "date": "2022-06-07T16:29:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 240,
+   "height": 320,
+   "text": ""
+  },
+  {
+   "id": 2513,
+   "type": "message",
+   "date": "2022-06-07T16:29:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 320,
+   "height": 238,
+   "text": ""
+  },
+  {
+   "id": 2514,
+   "type": "message",
+   "date": "2022-06-07T16:31:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 766,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в районе Авлабари \n3 комнаты\n2 спальни \nНовостройка\nНовый ремонт \nЦена 1300$\nРазрешено с животными \n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2515,
+   "type": "message",
+   "date": "2022-06-07T16:31:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2516,
+   "type": "message",
+   "date": "2022-06-07T16:31:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1077,
+   "height": 849,
+   "text": ""
+  },
+  {
+   "id": 2517,
+   "type": "message",
+   "date": "2022-06-07T16:31:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2518,
+   "type": "message",
+   "date": "2022-06-07T16:31:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1152,
+   "height": 864,
+   "text": ""
+  },
+  {
+   "id": 2519,
+   "type": "message",
+   "date": "2022-06-07T16:31:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2520,
+   "type": "message",
+   "date": "2022-06-07T16:31:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1152,
+   "height": 864,
+   "text": ""
+  },
+  {
+   "id": 2521,
+   "type": "message",
+   "date": "2022-06-07T16:31:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2522,
+   "type": "message",
+   "date": "2022-06-07T16:31:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2523,
+   "type": "message",
+   "date": "2022-06-07T16:31:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2524,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 676,
+   "height": 771,
+   "text": [
+    "Сдаётся квартира в районе Дигомский Массив\n3 комнаты \n2 спальни \nНовостройка \nНовый ремонт \nЦена 800$\n",
+    {
+     "type": "mention",
+     "text": "@ksenya1275"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2525,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1195,
+   "height": 761,
+   "text": ""
+  },
+  {
+   "id": 2526,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2527,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1188,
+   "height": 763,
+   "text": ""
+  },
+  {
+   "id": 2528,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 676,
+   "height": 770,
+   "text": ""
+  },
+  {
+   "id": 2529,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 664,
+   "height": 777,
+   "text": ""
+  },
+  {
+   "id": 2530,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 676,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2531,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 668,
+   "height": 774,
+   "text": ""
+  },
+  {
+   "id": 2532,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 667,
+   "height": 777,
+   "text": ""
+  },
+  {
+   "id": 2533,
+   "type": "message",
+   "date": "2022-06-07T16:33:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1195,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2534,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1197,
+   "height": 781,
+   "text": [
+    "Сдаётся квартира в Сабуртало \nУлица Политковской \n3 Комнаты \n2 спальни \nНовостройка \nНовый ремонт \nЦена 900$\n",
+    {
+     "type": "mention",
+     "text": "@sarajishvili72"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2535,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2536,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1191,
+   "height": 758,
+   "text": ""
+  },
+  {
+   "id": 2537,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2538,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 776,
+   "text": ""
+  },
+  {
+   "id": 2539,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 773,
+   "text": ""
+  },
+  {
+   "id": 2540,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 787,
+   "text": ""
+  },
+  {
+   "id": 2541,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 780,
+   "text": ""
+  },
+  {
+   "id": 2542,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 672,
+   "height": 788,
+   "text": ""
+  },
+  {
+   "id": 2543,
+   "type": "message",
+   "date": "2022-06-07T16:35:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 660,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2557,
+   "type": "message",
+   "date": "2022-06-07T22:54:06",
+   "edited": "2022-06-08T13:09:26",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 631,
+   "height": 762,
+   "text": [
+    "Сдаётся квартира на Руставели в новом доме 1000$ с одной спальней\n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2558,
+   "type": "message",
+   "date": "2022-06-07T22:54:06",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2559,
+   "type": "message",
+   "date": "2022-06-07T22:54:06",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 770,
+   "text": ""
+  },
+  {
+   "id": 2560,
+   "type": "message",
+   "date": "2022-06-07T22:54:06",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2561,
+   "type": "message",
+   "date": "2022-06-07T22:54:06",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 766,
+   "text": ""
+  },
+  {
+   "id": 2562,
+   "type": "message",
+   "date": "2022-06-07T22:54:06",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 2563,
+   "type": "message",
+   "date": "2022-06-07T22:54:06",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 764,
+   "text": ""
+  },
+  {
+   "id": 2564,
+   "type": "message",
+   "date": "2022-06-07T22:55:45",
+   "edited": "2022-06-08T13:09:10",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 533,
+   "text": [
+    "Сдаётся квартира в Ваке с 2 спальнями 900$\n",
+    {
+     "type": "mention",
+     "text": "@sarajishvili72"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2565,
+   "type": "message",
+   "date": "2022-06-07T22:55:45",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 255,
+   "text": ""
+  },
+  {
+   "id": 2566,
+   "type": "message",
+   "date": "2022-06-07T22:55:45",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 263,
+   "text": ""
+  },
+  {
+   "id": 2567,
+   "type": "message",
+   "date": "2022-06-07T22:55:45",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 265,
+   "text": ""
+  },
+  {
+   "id": 2568,
+   "type": "message",
+   "date": "2022-06-07T22:55:45",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 277,
+   "text": ""
+  },
+  {
+   "id": 2569,
+   "type": "message",
+   "date": "2022-06-07T22:55:45",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 404,
+   "text": ""
+  },
+  {
+   "id": 2576,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "Сдаётся квартира в Вазисубани \nНовостройка \nНовый ремонт\n3 комнаты \n2 спальни \nЦена 550$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2577,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2578,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2579,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2580,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2581,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2582,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2583,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2584,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2585,
+   "type": "message",
+   "date": "2022-06-08T13:08:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2586,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "edited": "2022-06-08T16:37:00",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 622,
+   "height": 1280,
+   "text": [
+    "Сдаётся квартира в Вазисубани \nНовостройка \nНовый ремонт \n2 комнаты \n1 спальня \nЦена 400$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2587,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 622,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2588,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 622,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2589,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 576,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2590,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 576,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2591,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 576,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2592,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 576,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2593,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 576,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2594,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 576,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2595,
+   "type": "message",
+   "date": "2022-06-08T13:24:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 576,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2596,
+   "type": "message",
+   "date": "2022-06-08T17:47:03",
+   "edited": "2022-06-08T20:43:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 458,
+   "text": "Сдаётся квартира в Дигоми «Зелёный алмаз « с 3 спальнями 1300$"
+  },
+  {
+   "id": 2597,
+   "type": "message",
+   "date": "2022-06-08T17:47:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 776,
+   "text": ""
+  },
+  {
+   "id": 2598,
+   "type": "message",
+   "date": "2022-06-08T17:47:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 770,
+   "text": ""
+  },
+  {
+   "id": 2599,
+   "type": "message",
+   "date": "2022-06-08T17:47:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 745,
+   "text": ""
+  },
+  {
+   "id": 2600,
+   "type": "message",
+   "date": "2022-06-08T17:47:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 743,
+   "text": ""
+  },
+  {
+   "id": 2601,
+   "type": "message",
+   "date": "2022-06-08T17:47:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1180,
+   "height": 771,
+   "text": ""
+  },
+  {
+   "id": 2602,
+   "type": "message",
+   "date": "2022-06-08T17:47:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 671,
+   "height": 766,
+   "text": ""
+  },
+  {
+   "id": 2603,
+   "type": "message",
+   "date": "2022-06-08T17:47:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1179,
+   "height": 774,
+   "text": ""
+  },
+  {
+   "id": 2604,
+   "type": "message",
+   "date": "2022-06-08T17:47:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2605,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 624,
+   "height": 769,
+   "text": [
+    "Сдаётся квартира в Сабуртало на улице Шартава \n3 комнаты \n2 спальни \nНовостройка \nНовый ремонт \nРазрешено с животными \nЦена 1500$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2606,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2607,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 779,
+   "text": ""
+  },
+  {
+   "id": 2608,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 664,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2609,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 789,
+   "text": ""
+  },
+  {
+   "id": 2610,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 770,
+   "text": ""
+  },
+  {
+   "id": 2611,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 779,
+   "text": ""
+  },
+  {
+   "id": 2612,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2613,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2614,
+   "type": "message",
+   "date": "2022-06-08T21:47:12",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 2615,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 781,
+   "text": [
+    "Сдаётся квартира в районе Сабуртало \nНовостройка \nНовый ремонт\n3 комнаты \n2 спальни \nЦена 800$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi12"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2616,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2617,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2618,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 771,
+   "text": ""
+  },
+  {
+   "id": 2619,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2620,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 2621,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2622,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2623,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 781,
+   "text": ""
+  },
+  {
+   "id": 2624,
+   "type": "message",
+   "date": "2022-06-08T21:49:29",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 670,
+   "height": 787,
+   "text": ""
+  },
+  {
+   "id": 2625,
+   "type": "message",
+   "date": "2022-06-08T21:50:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 776,
+   "text": [
+    "Сдаётся квартира в Сабуртало \nНовый ремонт \nНовостройка \n2 комнаты \n1 спальни \nЦена 650$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2626,
+   "type": "message",
+   "date": "2022-06-08T21:50:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2627,
+   "type": "message",
+   "date": "2022-06-08T21:50:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 773,
+   "text": ""
+  },
+  {
+   "id": 2628,
+   "type": "message",
+   "date": "2022-06-08T21:50:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 674,
+   "height": 776,
+   "text": ""
+  },
+  {
+   "id": 2629,
+   "type": "message",
+   "date": "2022-06-08T21:50:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 663,
+   "height": 775,
+   "text": ""
+  },
+  {
+   "id": 2630,
+   "type": "message",
+   "date": "2022-06-08T21:50:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 769,
+   "text": ""
+  },
+  {
+   "id": 2631,
+   "type": "message",
+   "date": "2022-06-08T21:50:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2632,
+   "type": "message",
+   "date": "2022-06-08T21:50:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 666,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 2633,
+   "type": "message",
+   "date": "2022-06-09T09:46:19",
+   "edited": "2022-06-09T22:22:24",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 853,
+   "height": 1280,
+   "text": [
+    "Сдаётся квартира на Чугурети с 4 спальни. 2000$\n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2634,
+   "type": "message",
+   "date": "2022-06-09T09:46:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 2635,
+   "type": "message",
+   "date": "2022-06-09T09:46:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 884,
+   "text": ""
+  },
+  {
+   "id": 2636,
+   "type": "message",
+   "date": "2022-06-09T09:46:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 2637,
+   "type": "message",
+   "date": "2022-06-09T09:46:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 2638,
+   "type": "message",
+   "date": "2022-06-09T09:46:20",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 927,
+   "text": ""
+  },
+  {
+   "id": 2639,
+   "type": "message",
+   "date": "2022-06-09T09:46:20",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 2640,
+   "type": "message",
+   "date": "2022-06-09T09:46:20",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 2641,
+   "type": "message",
+   "date": "2022-06-09T09:46:20",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1178,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2642,
+   "type": "message",
+   "date": "2022-06-09T09:46:20",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 853,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2643,
+   "type": "message",
+   "date": "2022-06-09T12:09:19",
+   "edited": "2022-06-09T23:11:23",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Дигомском массиве с 2 спальнями 800$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2644,
+   "type": "message",
+   "date": "2022-06-09T12:09:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2645,
+   "type": "message",
+   "date": "2022-06-09T12:09:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2646,
+   "type": "message",
+   "date": "2022-06-09T12:09:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2647,
+   "type": "message",
+   "date": "2022-06-09T12:09:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2648,
+   "type": "message",
+   "date": "2022-06-09T12:09:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2649,
+   "type": "message",
+   "date": "2022-06-09T12:09:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2650,
+   "type": "message",
+   "date": "2022-06-09T12:09:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2651,
+   "type": "message",
+   "date": "2022-06-09T21:57:37",
+   "edited": "2022-06-09T22:23:09",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 416,
+   "height": 569,
+   "text": [
+    "Сдаётся квартира в Сабуртало «зелёный Будапешт «с 1 спальней 800$ можно с животными.\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi12"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2652,
+   "type": "message",
+   "date": "2022-06-09T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 777,
+   "text": ""
+  },
+  {
+   "id": 2653,
+   "type": "message",
+   "date": "2022-06-09T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2654,
+   "type": "message",
+   "date": "2022-06-09T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2655,
+   "type": "message",
+   "date": "2022-06-09T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 771,
+   "text": ""
+  },
+  {
+   "id": 2656,
+   "type": "message",
+   "date": "2022-06-09T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2657,
+   "type": "message",
+   "date": "2022-06-09T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2658,
+   "type": "message",
+   "date": "2022-06-09T21:57:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 416,
+   "height": 303,
+   "text": ""
+  },
+  {
+   "id": 2659,
+   "type": "message",
+   "date": "2022-06-09T22:00:48",
+   "edited": "2022-06-09T22:23:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 770,
+   "text": [
+    "Сдаётся квартира в Дигомском массиве с 2 спальнями 1000$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2660,
+   "type": "message",
+   "date": "2022-06-09T22:00:48",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1199,
+   "height": 772,
+   "text": ""
+  },
+  {
+   "id": 2661,
+   "type": "message",
+   "date": "2022-06-09T22:00:48",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 665,
+   "height": 782,
+   "text": ""
+  },
+  {
+   "id": 2662,
+   "type": "message",
+   "date": "2022-06-09T22:00:48",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 764,
+   "text": ""
+  },
+  {
+   "id": 2663,
+   "type": "message",
+   "date": "2022-06-09T22:00:48",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 775,
+   "text": ""
+  },
+  {
+   "id": 2664,
+   "type": "message",
+   "date": "2022-06-09T22:00:48",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 780,
+   "text": ""
+  },
+  {
+   "id": 2665,
+   "type": "message",
+   "date": "2022-06-09T22:00:48",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 2666,
+   "type": "message",
+   "date": "2022-06-09T22:02:52",
+   "edited": "2022-06-09T22:23:31",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 669,
+   "height": 789,
+   "text": [
+    "Сдаётся квартира Дигомский массив с2 спальнями 900$\n",
+    {
+     "type": "mention",
+     "text": "@sarajishvili72"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2667,
+   "type": "message",
+   "date": "2022-06-09T22:02:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 775,
+   "text": ""
+  },
+  {
+   "id": 2668,
+   "type": "message",
+   "date": "2022-06-09T22:02:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 781,
+   "text": ""
+  },
+  {
+   "id": 2669,
+   "type": "message",
+   "date": "2022-06-09T22:02:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 662,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2670,
+   "type": "message",
+   "date": "2022-06-09T22:02:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2671,
+   "type": "message",
+   "date": "2022-06-09T22:02:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 776,
+   "text": ""
+  },
+  {
+   "id": 2672,
+   "type": "message",
+   "date": "2022-06-09T22:02:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2673,
+   "type": "message",
+   "date": "2022-06-09T22:02:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 674,
+   "height": 784,
+   "text": ""
+  },
+  {
+   "id": 2674,
+   "type": "message",
+   "date": "2022-06-09T22:02:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2675,
+   "type": "message",
+   "date": "2022-06-09T22:04:15",
+   "edited": "2022-06-09T22:24:07",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1199,
+   "height": 784,
+   "text": [
+    "Сдаётся квартира в Дигоми с одной спальней рядом с магазином Гудвил 450$\nОсвобождается в конце июня \n",
+    {
+     "type": "mention",
+     "text": "@ksenya1275"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2676,
+   "type": "message",
+   "date": "2022-06-09T22:04:15",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2677,
+   "type": "message",
+   "date": "2022-06-09T22:04:15",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 787,
+   "text": ""
+  },
+  {
+   "id": 2678,
+   "type": "message",
+   "date": "2022-06-09T22:04:15",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 769,
+   "text": ""
+  },
+  {
+   "id": 2679,
+   "type": "message",
+   "date": "2022-06-09T22:04:15",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 780,
+   "text": ""
+  },
+  {
+   "id": 2680,
+   "type": "message",
+   "date": "2022-06-09T22:04:15",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 780,
+   "text": ""
+  },
+  {
+   "id": 2681,
+   "type": "message",
+   "date": "2022-06-09T22:04:15",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 781,
+   "text": ""
+  },
+  {
+   "id": 2689,
+   "type": "message",
+   "date": "2022-06-09T22:10:54",
+   "edited": "2022-06-09T22:24:34",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 766,
+   "text": [
+    "Сдаётся квартира в Дидубе с 2 спальнями 750$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2690,
+   "type": "message",
+   "date": "2022-06-09T22:10:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1197,
+   "height": 777,
+   "text": ""
+  },
+  {
+   "id": 2691,
+   "type": "message",
+   "date": "2022-06-09T22:10:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1193,
+   "height": 762,
+   "text": ""
+  },
+  {
+   "id": 2692,
+   "type": "message",
+   "date": "2022-06-09T22:10:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 788,
+   "text": ""
+  },
+  {
+   "id": 2693,
+   "type": "message",
+   "date": "2022-06-09T22:10:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 784,
+   "text": ""
+  },
+  {
+   "id": 2694,
+   "type": "message",
+   "date": "2022-06-09T22:10:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 788,
+   "text": ""
+  },
+  {
+   "id": 2695,
+   "type": "message",
+   "date": "2022-06-09T22:10:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2696,
+   "type": "message",
+   "date": "2022-06-09T22:10:54",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2697,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 668,
+   "height": 781,
+   "text": [
+    "Сдаётся квартира в Сабуртало \nРядом с дворцом спорта\nНовостройка \nНовый ремонт \n4 комнаты \n3 спальни \nЦена 1300$\nМожно снять на срок 3 месяца.\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2698,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 668,
+   "height": 779,
+   "text": ""
+  },
+  {
+   "id": 2699,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1196,
+   "height": 747,
+   "text": ""
+  },
+  {
+   "id": 2700,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1199,
+   "height": 760,
+   "text": ""
+  },
+  {
+   "id": 2701,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 664,
+   "height": 774,
+   "text": ""
+  },
+  {
+   "id": 2702,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1017,
+   "height": 740,
+   "text": ""
+  },
+  {
+   "id": 2703,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1015,
+   "height": 742,
+   "text": ""
+  },
+  {
+   "id": 2704,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 692,
+   "height": 762,
+   "text": ""
+  },
+  {
+   "id": 2705,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 685,
+   "height": 774,
+   "text": ""
+  },
+  {
+   "id": 2706,
+   "type": "message",
+   "date": "2022-06-09T22:33:03",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 894,
+   "height": 771,
+   "text": ""
+  },
+  {
+   "id": 2715,
+   "type": "message",
+   "date": "2022-06-10T17:45:42",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 670,
+   "height": 787,
+   "text": [
+    "Сдаётся квартира в Сабуртало на Пекина \n2 комнаты \n1 спальня \n750$\nНовостройка \nНовый ремонт \n",
+    {
+     "type": "mention",
+     "text": "@ekaterine08"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2716,
+   "type": "message",
+   "date": "2022-06-10T17:45:42",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2717,
+   "type": "message",
+   "date": "2022-06-10T17:45:42",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 769,
+   "text": ""
+  },
+  {
+   "id": 2718,
+   "type": "message",
+   "date": "2022-06-10T17:45:42",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2719,
+   "type": "message",
+   "date": "2022-06-10T17:45:42",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 766,
+   "text": ""
+  },
+  {
+   "id": 2720,
+   "type": "message",
+   "date": "2022-06-10T17:45:42",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 769,
+   "text": ""
+  },
+  {
+   "id": 2721,
+   "type": "message",
+   "date": "2022-06-10T17:45:42",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 767,
+   "text": ""
+  },
+  {
+   "id": 2722,
+   "type": "message",
+   "date": "2022-06-10T17:45:42",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1195,
+   "height": 758,
+   "text": ""
+  },
+  {
+   "id": 2723,
+   "type": "message",
+   "date": "2022-06-10T17:45:42",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 766,
+   "text": ""
+  },
+  {
+   "id": 2724,
+   "type": "message",
+   "date": "2022-06-10T17:45:43",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 777,
+   "text": ""
+  },
+  {
+   "id": 2725,
+   "type": "message",
+   "date": "2022-06-10T17:46:37",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1199,
+   "height": 768,
+   "text": [
+    "Сдаётся квартира в Сабуртало за Дворцом спорта\n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nЦена 500$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2726,
+   "type": "message",
+   "date": "2022-06-10T17:46:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1199,
+   "height": 757,
+   "text": ""
+  },
+  {
+   "id": 2727,
+   "type": "message",
+   "date": "2022-06-10T17:46:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2728,
+   "type": "message",
+   "date": "2022-06-10T17:46:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2729,
+   "type": "message",
+   "date": "2022-06-10T17:46:38",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 508,
+   "height": 792,
+   "text": ""
+  },
+  {
+   "id": 2737,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 447,
+   "text": [
+    "Сдаётся квартира в Диди Дигоми \n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nЦена 450$\n",
+    {
+     "type": "mention",
+     "text": "@ksenya1275"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2738,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1269,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2739,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2740,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2741,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 551,
+   "text": ""
+  },
+  {
+   "id": 2742,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2743,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2744,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2745,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2746,
+   "type": "message",
+   "date": "2022-06-10T22:55:05",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2747,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 777,
+   "text": [
+    "Сдаётся квартира в Диди Дигоми \n2 комнаты \n1 спальня\nНовостройка \nНовый ремонт \nЦена 450$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2748,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 776,
+   "text": ""
+  },
+  {
+   "id": 2749,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 661,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2750,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 784,
+   "text": ""
+  },
+  {
+   "id": 2751,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2752,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2753,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 670,
+   "height": 780,
+   "text": ""
+  },
+  {
+   "id": 2754,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 670,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 2755,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2756,
+   "type": "message",
+   "date": "2022-06-10T22:56:36",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 666,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2757,
+   "type": "message",
+   "date": "2022-06-11T13:48:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1174,
+   "height": 773,
+   "text": "Сдаётся квартира в Дигоми с одной спальней 500$"
+  },
+  {
+   "id": 2758,
+   "type": "message",
+   "date": "2022-06-11T13:48:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1156,
+   "height": 757,
+   "text": ""
+  },
+  {
+   "id": 2759,
+   "type": "message",
+   "date": "2022-06-11T13:48:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1164,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2760,
+   "type": "message",
+   "date": "2022-06-11T13:48:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1183,
+   "height": 804,
+   "text": ""
+  },
+  {
+   "id": 2761,
+   "type": "message",
+   "date": "2022-06-11T13:48:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1177,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2762,
+   "type": "message",
+   "date": "2022-06-11T13:48:22",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 655,
+   "height": 789,
+   "text": ""
+  },
+  {
+   "id": 2763,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Сабуртало \n3 комнаты \n2 спальни \nЦена 900$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2764,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2765,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2766,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2767,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2768,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2769,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2770,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2771,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2772,
+   "type": "message",
+   "date": "2022-06-11T17:28:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2773,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Диди Дигоми \nНовостройка \nНовый ремонт \n2 комнаты \n1 спальня \nЦена 350$ \n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2774,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2775,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2776,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2777,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2778,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2779,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2780,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2781,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2782,
+   "type": "message",
+   "date": "2022-06-11T17:33:50",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2783,
+   "type": "message",
+   "date": "2022-06-11T17:36:18",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 480,
+   "text": [
+    "Сдаётся квартира в Дидубе \n2 комнаты\n1 спальня \nЦена 400$\n",
+    {
+     "type": "mention",
+     "text": "@sarajishvili72"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2784,
+   "type": "message",
+   "date": "2022-06-11T17:36:18",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2785,
+   "type": "message",
+   "date": "2022-06-11T17:36:18",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2786,
+   "type": "message",
+   "date": "2022-06-11T17:36:18",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2787,
+   "type": "message",
+   "date": "2022-06-11T17:36:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2788,
+   "type": "message",
+   "date": "2022-06-11T17:36:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2789,
+   "type": "message",
+   "date": "2022-06-11T17:36:19",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2790,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в Диди Дигоми \nРядом с Гудвилл\n2 комнаты \n1 спальня \nЦена 500$\nНовостройка\nНовый ремонт \nРазрешено с животными \n",
+    {
+     "type": "mention",
+     "text": "@ksenya1275"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2791,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2792,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2793,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2794,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2795,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2796,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2797,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2798,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2799,
+   "type": "message",
+   "date": "2022-06-11T17:38:44",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 426,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2800,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "edited": "2022-06-11T17:41:20",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в районе Дигомский Масив\n3 комнаты \n2 спальни\nНовостройка \nНовый ремонт \nЦена 1000$\nРазрешено с животными\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi12"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2801,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2802,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2803,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2804,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2805,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2806,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2807,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2808,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2809,
+   "type": "message",
+   "date": "2022-06-11T17:41:11",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2810,
+   "type": "message",
+   "date": "2022-06-11T17:56:20",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": [
+    "Сдаётся квартира в районе Дигомский Масив \n2 комнаты \n1 спальня \nНовостройка \nНовый ремонт \nРазрешено с животными \nЦена 600$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2811,
+   "type": "message",
+   "date": "2022-06-11T17:56:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2812,
+   "type": "message",
+   "date": "2022-06-11T17:56:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2813,
+   "type": "message",
+   "date": "2022-06-11T17:56:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2814,
+   "type": "message",
+   "date": "2022-06-11T17:56:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2815,
+   "type": "message",
+   "date": "2022-06-11T17:56:21",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2816,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "edited": "2022-06-12T09:02:47",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 559,
+   "text": [
+    "Сдаётся квартира в Исани \n3 комнаты \n2 спальни \nНовостройка \nНовый ремонт \nЦена 800$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi123"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2817,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 536,
+   "text": ""
+  },
+  {
+   "id": 2818,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 774,
+   "text": ""
+  },
+  {
+   "id": 2819,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 559,
+   "text": ""
+  },
+  {
+   "id": 2820,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1198,
+   "height": 545,
+   "text": ""
+  },
+  {
+   "id": 2821,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 792,
+   "text": ""
+  },
+  {
+   "id": 2822,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 505,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 2823,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 784,
+   "text": ""
+  },
+  {
+   "id": 2824,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 784,
+   "text": ""
+  },
+  {
+   "id": 2825,
+   "type": "message",
+   "date": "2022-06-11T19:46:55",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 782,
+   "text": ""
+  },
+  {
+   "id": 2826,
+   "type": "message",
+   "date": "2022-06-11T19:48:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 770,
+   "text": [
+    "Сдаётся квартира в Дидубе \n3 комнаты \n2 спальни \nЦена 650$\n",
+    {
+     "type": "mention",
+     "text": "@ladika13999"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2827,
+   "type": "message",
+   "date": "2022-06-11T19:48:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 775,
+   "text": ""
+  },
+  {
+   "id": 2828,
+   "type": "message",
+   "date": "2022-06-11T19:48:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 2829,
+   "type": "message",
+   "date": "2022-06-11T19:48:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 405,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2830,
+   "type": "message",
+   "date": "2022-06-11T19:48:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 405,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2831,
+   "type": "message",
+   "date": "2022-06-11T19:48:52",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 788,
+   "text": ""
+  },
+  {
+   "id": 2832,
+   "type": "message",
+   "date": "2022-06-11T19:48:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 405,
+   "height": 538,
+   "text": ""
+  },
+  {
+   "id": 2833,
+   "type": "message",
+   "date": "2022-06-11T19:48:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 405,
+   "height": 792,
+   "text": ""
+  },
+  {
+   "id": 2834,
+   "type": "message",
+   "date": "2022-06-11T19:48:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 784,
+   "text": ""
+  },
+  {
+   "id": 2835,
+   "type": "message",
+   "date": "2022-06-11T19:48:53",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 405,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2836,
+   "type": "message",
+   "date": "2022-06-11T19:49:59",
+   "edited": "2022-06-12T10:04:56",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 780,
+   "text": [
+    "Сдаётся квартира в Исани \n4 комнаты \n3 спальни \nЦена 800$\n",
+    {
+     "type": "mention",
+     "text": "@bagrationi12"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2837,
+   "type": "message",
+   "date": "2022-06-11T19:49:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2838,
+   "type": "message",
+   "date": "2022-06-11T19:49:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 665,
+   "height": 772,
+   "text": ""
+  },
+  {
+   "id": 2839,
+   "type": "message",
+   "date": "2022-06-11T19:49:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 664,
+   "height": 778,
+   "text": ""
+  },
+  {
+   "id": 2840,
+   "type": "message",
+   "date": "2022-06-11T19:49:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 784,
+   "text": ""
+  },
+  {
+   "id": 2841,
+   "type": "message",
+   "date": "2022-06-11T19:49:59",
+   "from": "Аренда недвижимости Тбилиси (MyFlat)",
+   "from_id": "channel1794574917",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 663,
+   "height": 788,
+   "text": ""
+  }
+ ]
+}

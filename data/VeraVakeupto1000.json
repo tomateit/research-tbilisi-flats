@@ -1,0 +1,4661 @@
+{
+ "name": "<1000$ Вера Ваке",
+ "type": "public_channel",
+ "id": 1354147572,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2021-10-15T12:05:29",
+   "actor": "<1000$ Вера Ваке",
+   "actor_id": "channel1354147572",
+   "action": "create_channel",
+   "title": "401-700 Вера Ваке",
+   "text": ""
+  },
+  {
+   "id": 2,
+   "type": "service",
+   "date": "2021-10-15T12:05:30",
+   "actor": "<1000$ Вера Ваке",
+   "actor_id": "channel1354147572",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": 4,
+   "type": "service",
+   "date": "2021-10-15T12:07:15",
+   "actor": "<1000$ Вера Ваке",
+   "actor_id": "channel1354147572",
+   "action": "pin_message",
+   "message_id": 3,
+   "text": ""
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2021-10-15T12:19:59",
+   "edited": "2021-10-18T16:53:56",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир 401-700$ в Ваке и Вера (1-2 спальни)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/tbilisi250350",
+     "href": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/VeraVake401700",
+     "href": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/Saburtalo401700",
+     "href": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/OrtachalaIsani401700",
+     "href": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/solmtch401700",
+     "href": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://atflat.ge",
+     "href": "https://atflat.ge/"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 6,
+   "type": "service",
+   "date": "2021-10-15T12:20:02",
+   "actor": "<1000$ Вера Ваке",
+   "actor_id": "channel1354147572",
+   "action": "pin_message",
+   "message_id": 5,
+   "text": ""
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2021-10-18T17:04:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 259,
+   "type": "message",
+   "date": "2021-10-22T17:00:59",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир 401-700$ в Ваке и Вера (1-2 спальни)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/tbilisi250350",
+     "href": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/VeraVake401700",
+     "href": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/Saburtalo401700",
+     "href": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/OrtachalaIsani401700",
+     "href": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/solmtch401700",
+     "href": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://atflat.ge",
+     "href": "https://atflat.ge/"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 382,
+   "type": "message",
+   "date": "2021-11-01T15:16:25",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Мтацминда \nБесики 4\nBBC - Besiki Business Center\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/LWg48UsnCaruR13r6"
+    },
+    "\n\nНовый дом\n45 кв\n1 спальня \n5/8 этаж \nДуховка \nНет балкона \nЦена: 600$"
+   ]
+  },
+  {
+   "id": 383,
+   "type": "message",
+   "date": "2021-11-01T15:16:25",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 852,
+   "text": ""
+  },
+  {
+   "id": 384,
+   "type": "message",
+   "date": "2021-11-01T15:16:25",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 385,
+   "type": "message",
+   "date": "2021-11-01T15:16:25",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 853,
+   "text": ""
+  },
+  {
+   "id": 386,
+   "type": "message",
+   "date": "2021-11-01T15:16:25",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 387,
+   "type": "message",
+   "date": "2021-11-01T15:16:25",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 388,
+   "type": "message",
+   "date": "2021-11-01T15:16:25",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 389,
+   "type": "message",
+   "date": "2021-11-01T15:16:25",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 852,
+   "text": ""
+  },
+  {
+   "id": 390,
+   "type": "message",
+   "date": "2021-11-01T15:16:26",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1257,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 391,
+   "type": "message",
+   "date": "2021-11-01T15:16:26",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 402,
+   "type": "message",
+   "date": "2021-11-02T17:33:55",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир 401-700$ в Ваке и Вера (1-2 спальни)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/tbilisi250350",
+     "href": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/VeraVake401700",
+     "href": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/Saburtalo401700",
+     "href": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/OrtachalaIsani401700",
+     "href": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "text_link",
+     "text": "https://t.me/solmtch401700",
+     "href": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "text_link",
+     "text": "https://atflat.ge",
+     "href": "https://atflat.ge/"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1390,
+   "type": "message",
+   "date": "2021-12-24T17:10:56",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": "Здравствуйте! Хотим сообщить, что наша команда уходит на новогодние каникулы с 27 декабря. Мы вернёмся к работе только 10 января. \nК сожалению, в этот период мы будем не на связи. К новым подборкам, показам вернёмся только 10 января. Благодарим за понимание и поздравляем с наступающими праздниками 🎅🎄 🤶 🎁"
+  },
+  {
+   "id": 2490,
+   "type": "message",
+   "date": "2022-03-04T12:06:58",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке  \nУл. Палиашвили  81\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/Q8ViyiYxDN5oqCJy6"
+    },
+    "\n\nСтарый дом\n44 кв\nСтудия \n1/5 этаж (бельетаж) \nБалкон \nЦена: 500$\nМинимум на год\nПротив русских и белорусов, против животных."
+   ]
+  },
+  {
+   "id": 2491,
+   "type": "message",
+   "date": "2022-03-04T12:07:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2492,
+   "type": "message",
+   "date": "2022-03-04T12:07:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2493,
+   "type": "message",
+   "date": "2022-03-04T12:07:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2494,
+   "type": "message",
+   "date": "2022-03-04T12:07:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2495,
+   "type": "message",
+   "date": "2022-03-04T12:07:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2496,
+   "type": "message",
+   "date": "2022-03-04T12:07:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2497,
+   "type": "message",
+   "date": "2022-03-04T12:07:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2498,
+   "type": "message",
+   "date": "2022-03-04T12:07:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2548,
+   "type": "message",
+   "date": "2022-03-07T12:11:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Вера\nБелинский 47/17\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/VaqH3M8CgGAdZetK7"
+    },
+    "\n\nНовый корпус\n75 кв \n1 спальня\n4/6 этаж\nБалкон\nЦена-650$\nпротив русских и белорусов\nпротив животных"
+   ]
+  },
+  {
+   "id": 2549,
+   "type": "message",
+   "date": "2022-03-07T12:11:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2550,
+   "type": "message",
+   "date": "2022-03-07T12:11:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2551,
+   "type": "message",
+   "date": "2022-03-07T12:11:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2552,
+   "type": "message",
+   "date": "2022-03-07T12:11:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2553,
+   "type": "message",
+   "date": "2022-03-07T12:11:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2554,
+   "type": "message",
+   "date": "2022-03-07T12:11:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 900,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2555,
+   "type": "message",
+   "date": "2022-03-07T18:23:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир 401-700$ в Ваке и Вера (1-2 спальни)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне Анжелике  ",
+    {
+     "type": "mention",
+     "text": "@ANJrealge"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\nНаши базы по локациям и сегментам:\n\n300-400$ центр ",
+    {
+     "type": "link",
+     "text": "https://t.me/tbilisi250350"
+    },
+    "\n401-700$ Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVake401700"
+    },
+    "\n401-700$ Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtalo401700"
+    },
+    "\n401-700$ Ортачала-Исани ",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsani401700"
+    },
+    "\n401-700$ Мтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtch401700"
+    },
+    "\nот 700$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.gе"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2648,
+   "type": "message",
+   "date": "2022-03-20T15:01:03",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": "Приветствую, дорогой подписчик!\n\nПрошу учесть, что варианты сейчас сдаются за 1 день максимум, поэтому прошу смотреть варианты, которые выложены за последние 1-3 дня, если вообще опубликованы. \nХорошего дня всем 💫"
+  },
+  {
+   "id": 2667,
+   "type": "service",
+   "date": "2022-04-08T09:45:51",
+   "actor": "<1000$ Вера Ваке",
+   "actor_id": "channel1354147572",
+   "action": "edit_group_title",
+   "title": "<1000$ Вера Ваке",
+   "text": ""
+  },
+  {
+   "id": 2668,
+   "type": "message",
+   "date": "2022-04-08T09:46:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "forwarded_from": "🏡Тбилиси Снять, сдать, купить, продать, недвижимости в Тбилиси 🔑",
+   "text": [
+    "Район Ваке\nУл. Рамишвили 3а \n\n",
+    {
+     "type": "link",
+     "text": "https://maps.app.goo.gl/s3jxzXkZR6BvMXqx5"
+    },
+    " \n\n2/12этаж\n70кв\n1 спальня \n1 ванная комната  \nЕсть Балкон\n\n\nЦена: 1000$ \nТолько долгосрочная аренда \nСобвенник не рассматривает:\n-ДОМАШНИХ ЖИВОТНЫХ \n-МАЛЕНКИХ ДЕТЕЙ \n\nПИСАТЬ В ТЕЛЕГРАММ ",
+    {
+     "type": "mention",
+     "text": "@DINOBE"
+    },
+    "\nИли звоните ",
+    {
+     "type": "phone",
+     "text": "551158038"
+    },
+    "\n\n\nОстановки транспорта в шаговом доступе👫 🚕 🚌 🚎 🚃\n🔻 Рядом находятся магазины 👫 🏬 🏪\n🔻 Рядом находятся школы, садики и мед учреждения 👦👧\n🔻 Тут есть где погулять и провести досуг 🚴‍♂️⛹️‍♂️🌳 ПАРК МЗИУРИ"
+   ]
+  },
+  {
+   "id": 2669,
+   "type": "message",
+   "date": "2022-04-08T09:46:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "forwarded_from": "🏡Тбилиси Снять, сдать, купить, продать, недвижимости в Тбилиси 🔑",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2670,
+   "type": "message",
+   "date": "2022-04-08T09:46:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "forwarded_from": "🏡Тбилиси Снять, сдать, купить, продать, недвижимости в Тбилиси 🔑",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2671,
+   "type": "message",
+   "date": "2022-04-08T09:46:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "forwarded_from": "🏡Тбилиси Снять, сдать, купить, продать, недвижимости в Тбилиси 🔑",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2672,
+   "type": "message",
+   "date": "2022-04-08T09:46:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "forwarded_from": "🏡Тбилиси Снять, сдать, купить, продать, недвижимости в Тбилиси 🔑",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2673,
+   "type": "message",
+   "date": "2022-04-08T09:46:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "forwarded_from": "🏡Тбилиси Снять, сдать, купить, продать, недвижимости в Тбилиси 🔑",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2674,
+   "type": "message",
+   "date": "2022-04-08T09:46:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "forwarded_from": "🏡Тбилиси Снять, сдать, купить, продать, недвижимости в Тбилиси 🔑",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2675,
+   "type": "message",
+   "date": "2022-04-08T09:46:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "forwarded_from": "🏡Тбилиси Снять, сдать, купить, продать, недвижимости в Тбилиси 🔑",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2676,
+   "type": "message",
+   "date": "2022-04-08T09:46:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "forwarded_from": "🏡Тбилиси Снять, сдать, купить, продать, недвижимости в Тбилиси 🔑",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 2677,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nЧавчавадзе 11\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/NPrQwVH6dfifiy3x5"
+    },
+    "\n\nСтарый корпус \n52 кв\n1 спальня\n1/5 этаж \nНет балкона \nЦена-1.000$, небольшой торг\nМожно с животными\nНе сдаст гражданам России\n(Извините, это не наша позиция)"
+   ]
+  },
+  {
+   "id": 2678,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2679,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2680,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2681,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2682,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2683,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2684,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 837,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2685,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2686,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2687,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2688,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Вера    \nБелинского 40\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/vtbxiKkEAv2d7jNV9"
+    },
+    "\n\nСтарый дом (Итальянский двор)  \n84 кв\n1/3 этаж \n2 спальни \nДуховка \nЦена: 1000$\nМожно всем \nМожно с маленькими животными"
+   ]
+  },
+  {
+   "id": 2689,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2690,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2691,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2692,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2693,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2694,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2695,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2696,
+   "type": "message",
+   "date": "2022-04-11T16:46:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2747,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nКипшидзе 12в\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/DJYpyaZTfjBENf1p8"
+    },
+    "\n\nНовый корпус \n74 кв\n1 спальня\n2/10 этаж\nБалкон \nДуховка \nЦена-1.000$\nПротив животных и маленьких детей\nНе сдают россиянам и белорусам \n(Извините, это не наша позиция)"
+   ]
+  },
+  {
+   "id": 2748,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2749,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2750,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2751,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2752,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2753,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2754,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2755,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2756,
+   "type": "message",
+   "date": "2022-04-15T12:42:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 600,
+   "text": ""
+  },
+  {
+   "id": 2771,
+   "type": "message",
+   "date": "2022-04-15T12:42:39",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nТабидзе 90\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/BJ2x5xGhBtLfgSQN8"
+    },
+    "\n\nНовый корпус\n80 кв \n3 спальни\n1/5 этаж\nЛифт\nЦена-950$\nМожно всем\nС животными депозит\nОплата за весь период проживания вперед"
+   ]
+  },
+  {
+   "id": 2772,
+   "type": "message",
+   "date": "2022-04-15T12:42:39",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 2773,
+   "type": "message",
+   "date": "2022-04-15T12:42:39",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 2774,
+   "type": "message",
+   "date": "2022-04-15T12:42:39",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 2775,
+   "type": "message",
+   "date": "2022-04-15T12:42:39",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2776,
+   "type": "message",
+   "date": "2022-04-15T12:42:39",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2777,
+   "type": "message",
+   "date": "2022-04-15T12:42:39",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 2778,
+   "type": "message",
+   "date": "2022-04-15T12:42:39",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 2779,
+   "type": "message",
+   "date": "2022-04-15T12:42:39",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 2780,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 2781,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nУл. Барнова 51 \n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/bauvvq7Mu2vG8DjN9"
+    },
+    "\n\nНовый дом \n90 кв\n2 спальни\n2/7 этаж (нет лифта)\nДуховка\nБалкон\nПаркинг\nЦена 800$\nНе сдают россиянам и белорусам \n(Извините, это не наша позиция)\nПротив животных\nСвободна с 1го мая, до этого можно смотреть и бронировать"
+   ]
+  },
+  {
+   "id": 2782,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2783,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2784,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2785,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2786,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2787,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2788,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2789,
+   "type": "message",
+   "date": "2022-04-15T12:42:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2790,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nТамарашвили 6\nКомплекс М2\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/WcxhzKYPtqaS33Ee6"
+    },
+    "\n\nНовый корпус\n80 кв\n2 спальни\n17/18 этаж\nЛифт\n2 сан узла\nБалкон\nДуховка\nВанна\nЦена-900$\nМожно всем\nОплата вперед за весь период проживания\nМожно с животными,с депозитом"
+   ]
+  },
+  {
+   "id": 2791,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 597,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2792,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 597,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2793,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 597,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2794,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 626,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2795,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 597,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2796,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 597,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2797,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 597,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2798,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2799,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 597,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2800,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 797,
+   "text": ""
+  },
+  {
+   "id": 2801,
+   "type": "message",
+   "date": "2022-04-15T14:49:24",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 797,
+   "text": ""
+  },
+  {
+   "id": 2802,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке  \nМцхета 49 \n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/jxCkCNKPJnQGTSvG7"
+    },
+    "\n\nСтарый дом \n120 кв\n2/4 этаж (без лифта)\n2 спальни + 1 кабинет/спальня \nНет балкона \nДуховка \nЦена: 1000$\nМожно всем \nПротив животных\nМинимум на год"
+   ]
+  },
+  {
+   "id": 2803,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2804,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2805,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2806,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2807,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2808,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2809,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2810,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2811,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2812,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2813,
+   "type": "message",
+   "date": "2022-04-18T14:30:31",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2814,
+   "type": "message",
+   "date": "2022-04-18T14:30:32",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2815,
+   "type": "message",
+   "date": "2022-04-19T10:03:06",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1080,
+   "height": 1080,
+   "text": "Друзья, сообщаем, что в период 22-25 апреля включительно наша команда уходит в тотальный пасхальный отпуск. Мы много работали - нам нужно немного отдохнуть :) \nВ этот период мы не берём в работу новые заявки. Не ездим на показы. \nВы можете нам писать, мы ответим в ближайшее по возможности время. Всех с предстоящим светлым праздником! Отдыхайте, радуйтесь жизни!❤️"
+  },
+  {
+   "id": 2842,
+   "type": "message",
+   "date": "2022-04-26T14:40:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nШатберашвили 4\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/dK6rQ9aA4myPvWkX7"
+    },
+    "\n\nСтарый корпус \n68 кв\n1 спальня\n9/9 этаж, лифт есть \nБалкон \nЦена-750$\nПротив животных \nНе сдают россиянам и белорусам\n(Извините, это не наша позиция)"
+   ]
+  },
+  {
+   "id": 2843,
+   "type": "message",
+   "date": "2022-04-26T14:40:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2844,
+   "type": "message",
+   "date": "2022-04-26T14:40:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2845,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2846,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2847,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2848,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2849,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2850,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2851,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2852,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2853,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2854,
+   "type": "message",
+   "date": "2022-04-26T14:40:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 415,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2855,
+   "type": "message",
+   "date": "2022-04-27T15:16:36",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nЖвания 3 \nКорпус Binadari\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/DwvMHL1d8Pwp7yLG7"
+    },
+    "\n\nНовый корпус\n60 кв\n1 спальня\n7/15 этаж\nЛифт\nДуховка\nЦена-900$\nНе сдают русским и белорусам(Извините,это не наша позиция)\nПротив животных"
+   ]
+  },
+  {
+   "id": 2856,
+   "type": "message",
+   "date": "2022-04-27T15:16:36",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2857,
+   "type": "message",
+   "date": "2022-04-27T15:16:36",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2858,
+   "type": "message",
+   "date": "2022-04-27T15:16:36",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2859,
+   "type": "message",
+   "date": "2022-04-27T15:16:36",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2860,
+   "type": "message",
+   "date": "2022-04-27T15:16:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2861,
+   "type": "message",
+   "date": "2022-04-27T15:16:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 673,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2862,
+   "type": "message",
+   "date": "2022-04-28T15:08:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nКекелидзе 25\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/dJkHM1AJKi6Mn2ZJ6"
+    },
+    "\n\nСтарый корпус\n120 кв\n2 спальни\n7/9 этаж\nЛифт\nБалкон\nВанна\nЦена-800$\nНе сдают украинцам(Извините,это не наша позиция)\nПротив животных\nОсвобождается 1го июня,смотреть до нельзя"
+   ]
+  },
+  {
+   "id": 2863,
+   "type": "message",
+   "date": "2022-04-28T15:08:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2864,
+   "type": "message",
+   "date": "2022-04-28T15:08:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 824,
+   "text": ""
+  },
+  {
+   "id": 2865,
+   "type": "message",
+   "date": "2022-04-28T15:08:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 826,
+   "text": ""
+  },
+  {
+   "id": 2866,
+   "type": "message",
+   "date": "2022-04-28T15:08:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 821,
+   "text": ""
+  },
+  {
+   "id": 2867,
+   "type": "message",
+   "date": "2022-04-28T15:08:20",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 824,
+   "text": ""
+  },
+  {
+   "id": 2868,
+   "type": "message",
+   "date": "2022-04-28T15:08:20",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 822,
+   "text": ""
+  },
+  {
+   "id": 2869,
+   "type": "message",
+   "date": "2022-04-28T15:08:20",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2870,
+   "type": "message",
+   "date": "2022-04-28T15:08:20",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 826,
+   "text": ""
+  },
+  {
+   "id": 2871,
+   "type": "message",
+   "date": "2022-04-28T15:08:20",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 818,
+   "text": ""
+  },
+  {
+   "id": 2872,
+   "type": "message",
+   "date": "2022-04-28T15:08:20",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 826,
+   "text": ""
+  },
+  {
+   "id": 2895,
+   "type": "message",
+   "date": "2022-05-02T18:49:39",
+   "edited": "2022-05-02T18:52:56",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир до 1000$ в Ваке Вера (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2896,
+   "type": "service",
+   "date": "2022-05-02T18:49:43",
+   "actor": "<1000$ Вера Ваке",
+   "actor_id": "channel1354147572",
+   "action": "pin_message",
+   "message_id": 2895,
+   "text": ""
+  },
+  {
+   "id": 2897,
+   "type": "message",
+   "date": "2022-05-03T14:25:42",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nКипшидзе 15\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/E3LWBH3zVqsCKMd37"
+    },
+    "\n60кв\n1 спальня\nДуховка\n2/10\nБалкон\nПаркинг\n800$"
+   ]
+  },
+  {
+   "id": 2898,
+   "type": "message",
+   "date": "2022-05-03T14:25:42",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 774,
+   "height": 791,
+   "text": ""
+  },
+  {
+   "id": 2899,
+   "type": "message",
+   "date": "2022-05-03T14:25:42",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 767,
+   "height": 792,
+   "text": ""
+  },
+  {
+   "id": 2900,
+   "type": "message",
+   "date": "2022-05-03T14:25:42",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 577,
+   "height": 796,
+   "text": ""
+  },
+  {
+   "id": 2901,
+   "type": "message",
+   "date": "2022-05-03T14:25:42",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 676,
+   "height": 791,
+   "text": ""
+  },
+  {
+   "id": 2902,
+   "type": "message",
+   "date": "2022-05-03T14:25:42",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 691,
+   "height": 792,
+   "text": ""
+  },
+  {
+   "id": 2903,
+   "type": "message",
+   "date": "2022-05-03T14:25:42",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 670,
+   "text": ""
+  },
+  {
+   "id": 2904,
+   "type": "message",
+   "date": "2022-05-03T14:25:42",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 772,
+   "height": 782,
+   "text": ""
+  },
+  {
+   "id": 2905,
+   "type": "message",
+   "date": "2022-05-03T14:25:42",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 674,
+   "text": ""
+  },
+  {
+   "id": 2944,
+   "type": "message",
+   "date": "2022-05-09T10:14:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке \nУл. Чавчавадзе 5\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/PrFG1sb435c47tFw7"
+    },
+    "\nНовый дом \n83м2 \n13/14 Этаж\n1 спальня \n2 сан узла \nБалкон \nКондиционер \nЦентральное отопление \nПаркинг \nМожно всем \nПротив животных \nЦена:1000$"
+   ]
+  },
+  {
+   "id": 2945,
+   "type": "message",
+   "date": "2022-05-09T10:14:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2946,
+   "type": "message",
+   "date": "2022-05-09T10:14:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2947,
+   "type": "message",
+   "date": "2022-05-09T10:14:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2948,
+   "type": "message",
+   "date": "2022-05-09T10:14:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2949,
+   "type": "message",
+   "date": "2022-05-09T10:14:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2950,
+   "type": "message",
+   "date": "2022-05-09T10:14:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2951,
+   "type": "message",
+   "date": "2022-05-09T10:14:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 793,
+   "text": ""
+  },
+  {
+   "id": 2971,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Вера\nПетриашвили \nVasil Petriashvili Street\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/n8Mbda5JVxGr8qGT6"
+    },
+    "\n60кв\n1/3 этаж\n1000$\nМожно всем\nМожно с животными\nДокупит всю нужную технику"
+   ]
+  },
+  {
+   "id": 2972,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 697,
+   "text": ""
+  },
+  {
+   "id": 2973,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 598,
+   "height": 787,
+   "text": ""
+  },
+  {
+   "id": 2974,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 685,
+   "text": ""
+  },
+  {
+   "id": 2975,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 692,
+   "text": ""
+  },
+  {
+   "id": 2976,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 683,
+   "text": ""
+  },
+  {
+   "id": 2977,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 681,
+   "text": ""
+  },
+  {
+   "id": 2978,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 598,
+   "height": 793,
+   "text": ""
+  },
+  {
+   "id": 2979,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 689,
+   "text": ""
+  },
+  {
+   "id": 2980,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 685,
+   "text": ""
+  },
+  {
+   "id": 2981,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 694,
+   "text": ""
+  },
+  {
+   "id": 2982,
+   "type": "message",
+   "date": "2022-05-11T11:18:43",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 598,
+   "height": 783,
+   "text": ""
+  },
+  {
+   "id": 2983,
+   "type": "message",
+   "date": "2022-05-11T11:18:44",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 599,
+   "height": 786,
+   "text": ""
+  },
+  {
+   "id": 2984,
+   "type": "message",
+   "date": "2022-05-11T18:14:26",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир до 1000$ в Ваке Вера (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 2985,
+   "type": "message",
+   "date": "2022-05-12T13:25:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nУл. Шроши\nShroshi Street\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/BAn65U31gR2K2eLKA"
+    },
+    "\n108кв\n2 спальни\n5/7 этаж\nДуховка\nКамин\n950$\nСвободна через 2 недели\nПротив украинцев (извините, это не наша позиция) \nМожно с маленькими животными"
+   ]
+  },
+  {
+   "id": 2986,
+   "type": "message",
+   "date": "2022-05-12T13:25:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2987,
+   "type": "message",
+   "date": "2022-05-12T13:25:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2988,
+   "type": "message",
+   "date": "2022-05-12T13:25:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2989,
+   "type": "message",
+   "date": "2022-05-12T13:25:13",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2990,
+   "type": "message",
+   "date": "2022-05-12T13:25:14",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2991,
+   "type": "message",
+   "date": "2022-05-12T13:25:14",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2992,
+   "type": "message",
+   "date": "2022-05-12T13:25:14",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2993,
+   "type": "message",
+   "date": "2022-05-12T13:25:14",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2994,
+   "type": "message",
+   "date": "2022-05-12T13:25:14",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2995,
+   "type": "message",
+   "date": "2022-05-12T13:25:14",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2996,
+   "type": "message",
+   "date": "2022-05-12T13:25:14",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2997,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nЧавчавадзе 7\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/qpYEX5m7Pj31ijqi6"
+    },
+    "\n90кв\n2 спальни\n7/8 этаж\nБалкон \nДуховка \n1000$\nДепозит за животных \nМожно всем"
+   ]
+  },
+  {
+   "id": 2998,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 2999,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3000,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3001,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3002,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 3003,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3004,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3005,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 3006,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3007,
+   "type": "message",
+   "date": "2022-05-13T11:13:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 3008,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nУл. Мцхета\n\nMtskheta St\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/WqAjgwWbeP5HKsRA6"
+    },
+    "\n100кв\n2 спальни\n3/6 этаж\n1000$\nОсвобождается 28 мая\nПротив животных и маленьких детей \nМожно всем"
+   ]
+  },
+  {
+   "id": 3009,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3010,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3011,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3012,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3013,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3014,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3015,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3016,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3017,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3018,
+   "type": "message",
+   "date": "2022-05-13T11:28:00",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3019,
+   "type": "message",
+   "date": "2022-05-13T20:23:44",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир до 1000$ в Ваке Вера (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 3048,
+   "type": "message",
+   "date": "2022-05-16T13:18:18",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nШатберашвили\n\nGiorgi Shatberashvili St\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/Xh6tGz3zkd8efuGd8"
+    },
+    "\n170кв\n2 спальни \n2/3 этаж\nБалкон \nКамин \n900$\nСкидка для украинцев \nМожно белорусам \nБез животных"
+   ]
+  },
+  {
+   "id": 3049,
+   "type": "message",
+   "date": "2022-05-16T13:18:18",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3050,
+   "type": "message",
+   "date": "2022-05-16T13:18:18",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3051,
+   "type": "message",
+   "date": "2022-05-16T13:18:18",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3052,
+   "type": "message",
+   "date": "2022-05-16T13:18:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 516,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3053,
+   "type": "message",
+   "date": "2022-05-16T13:18:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3054,
+   "type": "message",
+   "date": "2022-05-16T13:18:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3055,
+   "type": "message",
+   "date": "2022-05-16T13:18:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3056,
+   "type": "message",
+   "date": "2022-05-16T13:18:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3057,
+   "type": "message",
+   "date": "2022-05-16T13:18:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 854,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": 3058,
+   "type": "message",
+   "date": "2022-05-16T13:18:19",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 854,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": 3098,
+   "type": "message",
+   "date": "2022-05-17T17:10:55",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир до 1000$ в Ваке Вера (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 3120,
+   "type": "message",
+   "date": "2022-05-23T11:41:48",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nТакаишвили\nEkvtime Takaishvili St\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/H3XT38DokY1csyP28"
+    },
+    "\n100кв\n2 спальни \n2/6 этаж\nБалкон \n1800$\nПросит справку о доходах\nПротив животных\nСдает на 6 мес."
+   ]
+  },
+  {
+   "id": 3121,
+   "type": "message",
+   "date": "2022-05-23T11:41:48",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3122,
+   "type": "message",
+   "date": "2022-05-23T11:41:48",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3123,
+   "type": "message",
+   "date": "2022-05-23T11:41:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3124,
+   "type": "message",
+   "date": "2022-05-23T11:41:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3125,
+   "type": "message",
+   "date": "2022-05-23T11:41:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3126,
+   "type": "message",
+   "date": "2022-05-23T11:41:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3127,
+   "type": "message",
+   "date": "2022-05-23T11:41:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3128,
+   "type": "message",
+   "date": "2022-05-23T11:41:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3129,
+   "type": "message",
+   "date": "2022-05-23T11:41:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3130,
+   "type": "message",
+   "date": "2022-05-23T11:41:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3131,
+   "type": "message",
+   "date": "2022-05-23T11:41:49",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3132,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nЧавчавадзе 80\nКомплекс Parkwood\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/vsoEBNzAWNVKhFAa8"
+    },
+    "\n60кв\n1 спальня\n3/14 этаж\n1000$\nПросит оплату за 3 мес. Вперёд \nМожно всем\nПротив животных"
+   ]
+  },
+  {
+   "id": 3133,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3134,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3135,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3136,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3137,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3138,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3139,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3140,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3141,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3142,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3143,
+   "type": "message",
+   "date": "2022-05-24T13:47:35",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 414,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3144,
+   "type": "message",
+   "date": "2022-05-24T13:47:36",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 589,
+   "text": ""
+  },
+  {
+   "id": 3145,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nТакаишвили 4\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/DjUYjpWpdjegog8F6"
+    },
+    "\nСтарый дом\n120кв \n3 спальни\n1/4 этаж\nДуховка\n1000$\nМожно с животными и детьми\nКроме русских (извините, это не наша позиция)"
+   ]
+  },
+  {
+   "id": 3146,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3147,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3148,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3149,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3150,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3151,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3152,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 621,
+   "text": ""
+  },
+  {
+   "id": 3153,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3154,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 828,
+   "height": 621,
+   "text": ""
+  },
+  {
+   "id": 3155,
+   "type": "message",
+   "date": "2022-05-24T17:08:17",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3156,
+   "type": "message",
+   "date": "2022-05-24T17:09:27",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир до 1000$ в Ваке Вера (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 3157,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "edited": "2022-05-25T13:37:52",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nЧавчавадзе 83\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/ixEbc2voNXuktoBL6"
+    },
+    "\n\nНовый корпус \nНикто не жил \n65 кв\n1 спальня\n3/9 этаж \nБалкона нет \nЦена-1000$\nМожно все. Против детей и животных"
+   ]
+  },
+  {
+   "id": 3158,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 675,
+   "text": ""
+  },
+  {
+   "id": 3159,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 675,
+   "text": ""
+  },
+  {
+   "id": 3160,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3161,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 675,
+   "text": ""
+  },
+  {
+   "id": 3162,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 675,
+   "text": ""
+  },
+  {
+   "id": 3163,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 675,
+   "text": ""
+  },
+  {
+   "id": 3164,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3165,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3166,
+   "type": "message",
+   "date": "2022-05-25T12:47:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 506,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3167,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nКипшидзе 9\n\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/RutKf5Zjp3Wjy1wW8"
+    },
+    "\n65кв\n1 спальня\n9/16 этаж \nБалкон \nПаркинг \n1000$\nМожно всем \nМожно с маленькими животными \nОсвобождается в конце июня,\nсмотреть можно"
+   ]
+  },
+  {
+   "id": 3168,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 794,
+   "text": ""
+  },
+  {
+   "id": 3169,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 776,
+   "text": ""
+  },
+  {
+   "id": 3170,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1200,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 3171,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 790,
+   "text": ""
+  },
+  {
+   "id": 3172,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 797,
+   "text": ""
+  },
+  {
+   "id": 3173,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 3174,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 795,
+   "text": ""
+  },
+  {
+   "id": 3175,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 743,
+   "height": 789,
+   "text": ""
+  },
+  {
+   "id": 3176,
+   "type": "message",
+   "date": "2022-05-31T12:07:46",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 788,
+   "text": ""
+  },
+  {
+   "id": 3177,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nЖвания 10\n\nNino Zhvania Street\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/JkzU7iGqzb94TExS6"
+    },
+    "\nНовый ремонт \n71кв\n9/14 этаж \n1 спальня \nБалкон\n900$\nМожно всем \nСмотреть можно сегодня"
+   ]
+  },
+  {
+   "id": 3178,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1125,
+   "height": 825,
+   "text": ""
+  },
+  {
+   "id": 3179,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1125,
+   "height": 837,
+   "text": ""
+  },
+  {
+   "id": 3180,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1125,
+   "height": 854,
+   "text": ""
+  },
+  {
+   "id": 3181,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1125,
+   "height": 856,
+   "text": ""
+  },
+  {
+   "id": 3182,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3183,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1125,
+   "height": 844,
+   "text": ""
+  },
+  {
+   "id": 3184,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 730,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3185,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 718,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3186,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3187,
+   "type": "message",
+   "date": "2022-06-02T09:48:37",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1125,
+   "height": 856,
+   "text": ""
+  },
+  {
+   "id": 3188,
+   "type": "message",
+   "date": "2022-06-03T11:37:16",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nУл. Рамишвили\n\nნინო რამიშვილის ქუჩა\n",
+    {
+     "type": "link",
+     "text": "https://goo.gl/maps/hMY1259z7BMrdmkV8"
+    },
+    "\n 100кв\n2 спальни\nБалкон \nПаркинг \n4/6 этаж \nНет лифта \n1000$\nМожно всем \nЖивотных нельзя"
+   ]
+  },
+  {
+   "id": 3189,
+   "type": "message",
+   "date": "2022-06-03T11:37:16",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3190,
+   "type": "message",
+   "date": "2022-06-03T11:37:16",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3191,
+   "type": "message",
+   "date": "2022-06-03T11:37:16",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3192,
+   "type": "message",
+   "date": "2022-06-03T11:37:16",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3193,
+   "type": "message",
+   "date": "2022-06-03T11:37:16",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3194,
+   "type": "message",
+   "date": "2022-06-03T11:37:16",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3195,
+   "type": "message",
+   "date": "2022-06-03T11:37:16",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3219,
+   "type": "message",
+   "date": "2022-06-06T13:26:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nУл. Мцхета 3\n",
+    {
+     "type": "text_link",
+     "text": "\nhttps://goo.gl/maps/SUZvM2XNJjEKr4wz5",
+     "href": "https://goo.gl/maps/SUZvM2XNJjEKr4wz5"
+    },
+    "\nНовый ремонт \n70кв\n1 спальня \nЛифт\n10/10 этаж \nБалкон \n1000$ \nможно всем \nЖивотных нельзя \nСвободна можно смотреть"
+   ]
+  },
+  {
+   "id": 3220,
+   "type": "message",
+   "date": "2022-06-06T13:26:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 3221,
+   "type": "message",
+   "date": "2022-06-06T13:26:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 3222,
+   "type": "message",
+   "date": "2022-06-06T13:26:40",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 768,
+   "text": ""
+  },
+  {
+   "id": 3223,
+   "type": "message",
+   "date": "2022-06-06T13:26:41",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3224,
+   "type": "message",
+   "date": "2022-06-06T13:26:41",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3225,
+   "type": "message",
+   "date": "2022-06-06T13:26:41",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 675,
+   "height": 900,
+   "text": ""
+  },
+  {
+   "id": 3227,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Веке \nРазмадзе 55\n\n55 Razmadze St\n",
+    {
+     "type": "link",
+     "text": "https://maps.app.goo.gl/2eq4Ew3hkiHYjNyF7"
+    },
+    "\n\nНовый корпус \n1 спальня \nСтудия\n60 кв\n2/9 этаж\nНовый ремонт \n1000$"
+   ]
+  },
+  {
+   "id": 3228,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1053,
+   "height": 719,
+   "text": ""
+  },
+  {
+   "id": 3229,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 805,
+   "height": 1086,
+   "text": ""
+  },
+  {
+   "id": 3230,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1049,
+   "height": 668,
+   "text": ""
+  },
+  {
+   "id": 3231,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1072,
+   "height": 699,
+   "text": ""
+  },
+  {
+   "id": 3232,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1070,
+   "height": 805,
+   "text": ""
+  },
+  {
+   "id": 3233,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1077,
+   "height": 810,
+   "text": ""
+  },
+  {
+   "id": 3234,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1071,
+   "height": 690,
+   "text": ""
+  },
+  {
+   "id": 3235,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1064,
+   "height": 696,
+   "text": ""
+  },
+  {
+   "id": 3236,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1055,
+   "height": 642,
+   "text": ""
+  },
+  {
+   "id": 3237,
+   "type": "message",
+   "date": "2022-06-06T17:16:12",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1024,
+   "height": 690,
+   "text": ""
+  },
+  {
+   "id": 3238,
+   "type": "message",
+   "date": "2022-06-06T17:16:22",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир до 1000$ в Ваке Вера (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 3239,
+   "type": "message",
+   "date": "2022-06-07T14:05:50",
+   "edited": "2022-06-07T14:36:04",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке\nАбашидзе 66\n\n 66 Irakli Abashidze Street\n",
+    {
+     "type": "link",
+     "text": "https://maps.app.goo.gl/jQnAqBPQxZgR8oE47"
+    },
+    "\n\n1 спальня\n40кв\nСтарый корпус\n5/6 этаж\n700$\nМожно всем\nПротив животных\nС 17 июня свободна, смотреть можно."
+   ]
+  },
+  {
+   "id": 3240,
+   "type": "message",
+   "date": "2022-06-07T14:05:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 877,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3241,
+   "type": "message",
+   "date": "2022-06-07T14:05:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1016,
+   "height": 785,
+   "text": ""
+  },
+  {
+   "id": 3242,
+   "type": "message",
+   "date": "2022-06-07T14:05:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 979,
+   "height": 806,
+   "text": ""
+  },
+  {
+   "id": 3243,
+   "type": "message",
+   "date": "2022-06-07T14:05:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1076,
+   "height": 813,
+   "text": ""
+  },
+  {
+   "id": 3244,
+   "type": "message",
+   "date": "2022-06-07T14:05:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 979,
+   "height": 879,
+   "text": ""
+  },
+  {
+   "id": 3245,
+   "type": "message",
+   "date": "2022-06-07T14:05:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1060,
+   "height": 802,
+   "text": ""
+  },
+  {
+   "id": 3246,
+   "type": "message",
+   "date": "2022-06-07T14:05:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1072,
+   "height": 800,
+   "text": ""
+  },
+  {
+   "id": 3247,
+   "type": "message",
+   "date": "2022-06-07T14:05:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 943,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3248,
+   "type": "message",
+   "date": "2022-06-07T14:05:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 886,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3249,
+   "type": "message",
+   "date": "2022-06-07T14:05:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 989,
+   "height": 806,
+   "text": ""
+  },
+  {
+   "id": 3250,
+   "type": "message",
+   "date": "2022-06-07T14:05:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 901,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3251,
+   "type": "message",
+   "date": "2022-06-07T14:05:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 917,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3252,
+   "type": "message",
+   "date": "2022-06-07T17:41:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Веке \nКипшидзе 3б\n\n3b Nikolioz Kipshidze St\n",
+    {
+     "type": "link",
+     "text": "https://maps.app.goo.gl/Rc98Q9PMpzFGkXsy7"
+    },
+    "\n\nНовый корпус \n1 спальня\n55 кв\n4/10 этаж\nМожно всем\nПротив животных \n800$"
+   ]
+  },
+  {
+   "id": 3253,
+   "type": "message",
+   "date": "2022-06-07T17:41:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 891,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3254,
+   "type": "message",
+   "date": "2022-06-07T17:41:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 626,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3255,
+   "type": "message",
+   "date": "2022-06-07T17:41:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1048,
+   "height": 493,
+   "text": ""
+  },
+  {
+   "id": 3256,
+   "type": "message",
+   "date": "2022-06-07T17:41:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 956,
+   "height": 488,
+   "text": ""
+  },
+  {
+   "id": 3257,
+   "type": "message",
+   "date": "2022-06-07T17:41:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 627,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3258,
+   "type": "message",
+   "date": "2022-06-07T17:41:38",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1080,
+   "height": 490,
+   "text": ""
+  },
+  {
+   "id": 3279,
+   "type": "message",
+   "date": "2022-06-07T18:22:02",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Подборка квартир до 1000$ в Ваке Вера (1-2 спальни; Иногда и 3)\nСначала идёт описание, потом фото. \n\nПо всем вопросам пишите мне ",
+    {
+     "type": "mention",
+     "text": "@KRIS_atflat"
+    },
+    "\nНа связи:  пн - пт с 10:00 - 18:00.\n\n📍срок аренды 12 месяцев  (редко, можно на 6 месяцев)\n\n📍оплата за первый и двенадцатый месяцы \n\n📍часто, цена не окончательная, возможен торг\n\n📍показ квартиры возможен на следующий день, иногда день в день (если собственник доступен)\n\n\nНаши базы по локациям и сегментам:\n\nдо 1000$  Ваке-Вера ",
+    {
+     "type": "link",
+     "text": "https://t.me/VeraVakeupto1000"
+    },
+    "\n\nдо 1000$  Сабуртало ",
+    {
+     "type": "link",
+     "text": "https://t.me/Saburtaloupto1000"
+    },
+    " \n\nдо 1000$  Ортачала-Исани\n",
+    {
+     "type": "link",
+     "text": "https://t.me/OrtachalaIsaniupto1000"
+    },
+    "\n\nдо 1000$\nМтацминда-Сололаки-Чугурети ",
+    {
+     "type": "link",
+     "text": "https://t.me/solmtchupto1000"
+    },
+    "\n\nАренда в разном бюджете и локациях ",
+    {
+     "type": "link",
+     "text": "https://t.me/GE4YOU"
+    },
+    "  \n\nАренда коммерческих помещений в центре ",
+    {
+     "type": "link",
+     "text": "https://t.me/commercial_atflat"
+    },
+    " \n\nот 1000$ центр ",
+    {
+     "type": "link",
+     "text": "https://atflat.ge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 3300,
+   "type": "message",
+   "date": "2022-06-08T16:17:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "text": [
+    "Ваке \nЧавчавадзе 49б\n\nშპს. ელვეემი\n",
+    {
+     "type": "link",
+     "text": "https://maps.app.goo.gl/JtY4QZohgdzdqiqa6"
+    },
+    "\n\n2 спальни\n94кв\n5/10 этаж\nНовый корпус \nМожно всем \nПротив животных\n800$"
+   ]
+  },
+  {
+   "id": 3301,
+   "type": "message",
+   "date": "2022-06-08T16:17:50",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1072,
+   "height": 612,
+   "text": ""
+  },
+  {
+   "id": 3302,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1027,
+   "height": 597,
+   "text": ""
+  },
+  {
+   "id": 3303,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1080,
+   "height": 606,
+   "text": ""
+  },
+  {
+   "id": 3304,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1074,
+   "height": 609,
+   "text": ""
+  },
+  {
+   "id": 3305,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1074,
+   "height": 814,
+   "text": ""
+  },
+  {
+   "id": 3306,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 922,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3307,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 931,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3308,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 955,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3309,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 749,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 3310,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1038,
+   "height": 798,
+   "text": ""
+  },
+  {
+   "id": 3311,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1075,
+   "height": 602,
+   "text": ""
+  },
+  {
+   "id": 3312,
+   "type": "message",
+   "date": "2022-06-08T16:17:51",
+   "from": "<1000$ Вера Ваке",
+   "from_id": "channel1354147572",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 894,
+   "height": 1280,
+   "text": ""
+  }
+ ]
+}
